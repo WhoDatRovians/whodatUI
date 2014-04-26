@@ -1,9 +1,29 @@
+.ui-block-a,
+.ui-block-b,
+.ui-block-c
+{
+height: 100px;
+text-align: center;
+left:0px;
+right:0px;
+}
 
+.ui-grid-b
+{
+background-color: lightgray;
+}
 .ui-gridbtn
 {
 background-color: lightgray;
 height: 100px;
 font-weight: bold;
 text-align: center;
-padding-top:1px;
 }
+
+	.bgimage
+	{
+	  background-image: url(images/minion.jpg);
+	  height:auto; 
+	  width:auto;
+    }
+
