@@ -1,35 +1,81 @@
+
+html{
+    position: relative;
+    margin: 0 auto;
+    font-family:'Conv_MuseoSans';
+    text-align:center;
+    width:100%;
+    height:100%;
+}
+
+body{
+    position: relative;
+    margin: 0 auto;
+    font-family:'Conv_MuseoSans';
+    text-align:center;
+    width:100%;
+    height:100%;
+}
+.ui-content
+{
+    position: relative;
+    margin: 0 auto;
+    font-family:'Conv_MuseoSans';
+    margin-left: auto ;
+    margin-right: auto ;
+    width:100%;
+    height:100%;
+}
+.blurimage
+{ 
+  background-image: url(../images/minion.jpg);
+   -webkit-filter: blur(12px);
+  -moz-filter: blur(12px);
+  -o-filter: blur(12px);
+  -ms-filter: blur(12px);
+  filter: blur(12px);
+
+ }
+ .clearimage
+ {
+   margin: 0;
+  background-image: url(../images/minion.jpg);
+  background-size:100% 100%;
+  }
+.ui-grid-b
+{
+background-color: lightgray;
+max-width:800px;
+max-height:600px;
+background-size:100% 100%;
+width:auto;
+height:auto;
+bottom: auto;
+height:auto;
+margin-left: auto;
+margin-right: auto;
+}
+
+.ui-grid-b .ui-btn
+{
+margin-right:0px;
+margin-left:0px;
+}
+.ui-btn
+{
+  margin:0;  
+}
 .ui-block-a,
 .ui-block-b,
 .ui-block-c
 {
-height: 200px;
-text-align: center;
-left:0px;
-right:0px;
-
-}
-.ui-content
-{
-margin:auto;
-height:100%;
-width:100%;
-}
-.ui-grid-b
-{
-background-color: lightgray;
-	 background-size:100% 100%;
-	  background-image: url(../images/minion.jpg);
-	  width:800px;
-      height:600px;
+height: auto;
 }
 .ui-btnsolid
 {
 background-color: lightgray;
 height: 200px;
 font-weight: bold;
-text-align: center;
-left:0px;
-right:0px;
 opacity:1;
 }
 
@@ -38,12 +84,15 @@ opacity:1;
 background-color: lightgray;
 height: 200px;
 font-weight: bold;
-text-align: center;
-left:0px;
-right:0px;
 opacity:0;
+
 }
 
+#grid{
+
+
+
+}
 #answer{
     padding-bottom:10px;
     padding-top:10px; 
