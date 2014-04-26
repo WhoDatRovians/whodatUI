@@ -117,7 +117,7 @@ $(document).ready(function () {
             dataType: 'jsonp',
             crossDomain: true,
             error: function (e) {
-                var celebJson = '{"Credits": {"credit_id": 6780301,"full_name": "Alfred Molina","part_name": "Roadkill","long_title": "Rango","zodiac_sign": "Gemini","file_url": "http://cps-static.rovicorp.com/2/Open/Getty/Alfred%20Molina/_derived_jpg_q90_600x800_m0/75443844.jpg"}}';
+                var celebJson = '{"Credits": {"creditid": 6780301,"fullname": "Alfred Molina","partname": "Roadkill","longtitle": "Rango","zodiacsign": "Gemini","imageurl": "http://cps-static.rovicorp.com/2/Open/Getty/Alfred%20Molina/_derived_jpg_q90_600x800_m0/75443844.jpg"}}';
                 startGame(celebJson);
                 console.log(e.message);
             },
@@ -125,7 +125,7 @@ $(document).ready(function () {
                 startGame(data);
             }
         });
-        var celebJson = '{"Credits": {"credit_id": 6780301,"full_name": "Alfred Molina","part_name": "Roadkill","long_title": "Rango","zodiac_sign": "Gemini","file_url": "http://cps-static.rovicorp.com/2/Open/Getty/Alfred%20Molina/_derived_jpg_q90_600x800_m0/75443844.jpg"}}';
+        var celebJson = '{"Credits": {"creditid": 6780301,"fullname": "Alfred Molina","partname": "Roadkill","longtitle": "Rango","zodiacsign": "Gemini","imageurl": "http://cps-static.rovicorp.com/2/Open/Getty/Alfred%20Molina/_derived_jpg_q90_600x800_m0/75443844.jpg"}}';
         startGame(celebJson);
     }
 
