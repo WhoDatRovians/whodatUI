@@ -37,6 +37,9 @@ $(document).ready(function () {
     
     var originalTitle;
     function startGame(celebJson) {
+        if (celebJson === "") {
+            celebJson = '{"Credits": {"credit_id": 6780301,"full_name": "Alfred Molina","part_name": "Roadkill","long_title": "Rango","zodiac_sign": "Gemini","file_url": "http://cps-static.rovicorp.com/2/Open/Getty/Alfred%20Molina/_derived_jpg_q90_600x800_m0/75443844.jpg"}}';
+        }
         celebrity = JSON && JSON.parse(celebJson) || $.parseJSON(celebJson);
         
         var titleArray = celebrity.Credits.fullname.split("");
