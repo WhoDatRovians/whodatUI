@@ -107,7 +107,6 @@ $(document).ready(function () {
 
             }
         }
-        $(':input').autotab_magic();
     }
 
     function getCeleberity() {
@@ -117,7 +116,7 @@ $(document).ready(function () {
             dataType: 'jsonp',
             crossDomain: true,
             error: function (e) {
-                var celebJson = '{"Credits": {"creditid": 6780301,"fullname": "Alfred Molina","partname": "Roadkill","longtitle": "Rango","zodiacsign": "Gemini","imageurl": "http://cps-static.rovicorp.com/2/Open/Getty/Alfred%20Molina/_derived_jpg_q90_600x800_m0/75443844.jpg"}}';
+                var celebJson = '{"Credits":{"creditid":6767052,"fullname":"Olivia Wilde","partname":"Sabrina McArdle","zodiacsign":"Pisces","longtitle":"The Change-Up","imageurl":"http://cps-static.rovicorp.com/2/Open/Getty/Olivia%20Wilde/_3by4/_derived_jpg_q90_584x800_m0/93212639.jpg"}}';
                 startGame(celebJson);
                 console.log(e.message);
             },
@@ -125,7 +124,7 @@ $(document).ready(function () {
                 startGame(data);
             }
         });
-        var celebJson = '{"Credits": {"creditid": 6780301,"fullname": "Alfred Molina","partname": "Roadkill","longtitle": "Rango","zodiacsign": "Gemini","imageurl": "http://cps-static.rovicorp.com/2/Open/Getty/Alfred%20Molina/_derived_jpg_q90_600x800_m0/75443844.jpg"}}';
+        var celebJson = '{"Credits":{"creditid":6767052,"fullname":"Olivia Wilde","partname":"Sabrina McArdle","zodiacsign":"Pisces","longtitle":"The Change-Up","imageurl":"http://cps-static.rovicorp.com/2/Open/Getty/Olivia%20Wilde/_3by4/_derived_jpg_q90_584x800_m0/93212639.jpg"}}';
         startGame(celebJson);
     }
 
