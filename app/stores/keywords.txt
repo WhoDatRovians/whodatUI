@@ -1,0 +1,169 @@
+{
+    "status": "ok",
+    "code": 200,
+    "messages": null,
+    "build": "1.0",
+    "parameters": {
+        "apiKey": "7mwb58acwtu5tcvuf2pqgdsj",
+        "id": null,
+        "format": "json",
+        "country": "US",
+        "language": "en"
+    },
+    "view": {
+        "total": 41
+    },
+    "serverName": "tul1csprcs9.corporate.local",
+    "startTime": "2013-11-01T18:31:07Z",
+    "endTime": "2013-11-01T18:31:07Z",
+    "duration": 4,
+    "genres": [{
+        "id": "D+++646",
+        "name": "Action",
+        "type": "Movie Genre"
+    }, {
+        "id": "D+++995",
+        "name": "Adult",
+        "type": "Movie Genre"
+    }, {
+        "id": "D+++647",
+        "name": "Adventure",
+        "type": "Movie Genre"
+    }, {
+        "id": "D++1015",
+        "name": "Business",
+        "type": "Movie Genre"
+    }, {
+        "id": "D+++648",
+        "name": "Comedy",
+        "type": "Movie Genre"
+    }, {
+        "id": "D+++531",
+        "name": "Comedy Drama",
+        "type": "Movie Genre"
+    }, {
+        "id": "D+++653",
+        "name": "Crime",
+        "type": "Movie Genre"
+    }, {
+        "id": "D++1659",
+        "name": "Culture & Society ",
+        "type": "Movie Genre"
+    }, {
+        "id": "D+++669",
+        "name": "Dance",
+        "type": "Movie Genre"
+    }, {
+        "id": "D+++649",
+        "name": "Drama",
+        "type": "Movie Genre"
+    }, {
+        "id": "D++1279",
+        "name": "Education",
+        "type": "Movie Genre"
+    }, {
+        "id": "D+++657",
+        "name": "Epic",
+        "type": "Movie Genre"
+    }, {
+        "id": "D++1035",
+        "name": "Family & Personal Relationships",
+        "type": "Movie Genre"
+    }, {
+        "id": "D+++650",
+        "name": "Fantasy",
+        "type": "Movie Genre"
+    }, {
+        "id": "D++1661",
+        "name": "Film, TV & Radio",
+        "type": "Movie Genre"
+    }, {
+        "id": "D++1047",
+        "name": "Health & Fitness",
+        "type": "Movie Genre"
+    }, {
+        "id": "D+++685",
+        "name": "Historical Film",
+        "type": "Movie Genre"
+    }, {
+        "id": "D++1055",
+        "name": "History",
+        "type": "Movie Genre"
+    }, {
+        "id": "D+++654",
+        "name": "Horror",
+        "type": "Movie Genre"
+    }, {
+        "id": "D++1660",
+        "name": "Language & Literature",
+        "type": "Movie Genre"
+    }, {
+        "id": "D++1063",
+        "name": "Leisure Arts",
+        "type": "Movie Genre"
+    }, {
+        "id": "D++1776",
+        "name": "Music",
+        "type": "Movie Genre"
+    }, {
+        "id": "D+++655",
+        "name": "Musical",
+        "type": "Movie Genre"
+    }, {
+        "id": "D+++651",
+        "name": "Mystery",
+        "type": "Movie Genre"
+    }, {
+        "id": "D++1075",
+        "name": "Nature",
+        "type": "Movie Genre"
+    }, {
+        "id": "D+++948",
+        "name": "Romance",
+        "type": "Movie Genre"
+    }, {
+        "id": "D++1094",
+        "name": "Science & Technology",
+        "type": "Movie Genre"
+    }, {
+        "id": "D+++652",
+        "name": "Science Fiction",
+        "type": "Movie Genre"
+    }, {
+        "id": "D++1085",
+        "name": "Spirituality & Philosophy",
+        "type": "Movie Genre"
+    }, {
+        "id": "D++1101",
+        "name": "Sports & Recreation",
+        "type": "Movie Genre"
+    }, {
+        "id": "D+++515",
+        "name": "Spy Film",
+        "type": "Movie Genre"
+    }, {
+        "id": "D+++672",
+        "name": "Theater",
+        "type": "Movie Genre"
+    }, {
+        "id": "D+++942",
+        "name": "Thriller",
+        "type": "Movie Genre"
+    }, {
+        "id": "D++1109",
+        "name": "Travel",
+        "type": "Movie Genre"
+    }, {
+        "id": "D++1012",
+        "name": "Visual Arts",
+        "type": "Movie Genre"
+    }, {
+        "id": "D+++947",
+        "name": "War",
+        "type": "Movie Genre"
+    }, {
+        "id": "D+++656",
+        "name": "Western",
+        "type": "Movie Genre"
+    }]
+}

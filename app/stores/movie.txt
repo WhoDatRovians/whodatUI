@@ -1,0 +1,3913 @@
+{"searchResponse": {
+  "meta:id": "tul1cpgpsrapp2:gwy:2y53ue",
+  "controlSet": {
+    "status": "ok",
+    "code": 200,
+    "messages": null
+  },
+  "results": [
+    {
+    "type": "movie",
+    "relevance": [
+      {
+      "code": "Score",
+      "value": 0.9192687
+    }],
+    "id": 3179700,
+    "messages": null,
+    "video": {
+      "ids": {
+        "amgMovieId": null,
+        "cosmoId": "3179700",
+        "iguideId": 3179700
+      },
+      "seriesIds": null,
+      "masterTitle": "Guy Hanks",
+      "secondaryTitle": "",
+      "episodeTitle": null,
+      "category": "Movie",
+      "color": "Color",
+      "lastAirDate": null,
+      "originalAirDate": null,
+      "programType": "Movie",
+      "releaseYear": 1994,
+      "duration": 120,
+      "subcategory": "mystery & suspense",
+      "syndicated": false,
+      "programLanguage": "English",
+      "partNumber": null,
+      "partTotal": null,
+      "parentalRatings": null,
+      "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=3179700&language=en&country=US",
+      "cast": null,
+      "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=3179700&language=en&country=US",
+      "crew": null,
+      "crewUri": null,
+      "awards": null,
+      "awardsUri": null,
+      "images": null,
+      "imagesUri": null,
+      "clip": null,
+      "clipUri": null,
+      "seasons": null,
+      "seasonsUri": null,
+      "variants": [
+        {
+        "videoHandle": {
+          "id": 3179700,
+          "providerId": 2
+        },
+        "providerTitle": "Guy Hanks",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 3179700,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 202996,
+          "providerId": 87
+        },
+        "providerTitle": "Guy Hanks",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 202996,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      }],
+      "variantsUri": null,
+      "schedule": "",
+      "scheduleUri": null,
+      "event": null,
+      "eventUri": null,
+      "keywords": null,
+      "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=3179700&language=en&country=US",
+      "moods": null,
+      "moodsUri": null,
+      "related": null,
+      "relatedUri": null,
+      "review": null,
+      "reviewUri": null,
+      "synopsis": null,
+      "synopsisUri": null,
+      "themes": null,
+      "themesUri": null,
+      "tones": null,
+      "tonesUri": null
+    }
+  },
+  {
+    "type": "movie",
+    "relevance": [
+      {
+      "code": "Score",
+      "value": 0.025728995
+    }],
+    "id": 21184603,
+    "messages": null,
+    "video": {
+      "ids": {
+        "amgMovieId": null,
+        "cosmoId": "21184603",
+        "iguideId": 6063472
+      },
+      "seriesIds": null,
+      "masterTitle": "Hacks",
+      "secondaryTitle": "",
+      "episodeTitle": null,
+      "category": "Movie",
+      "color": "Color",
+      "lastAirDate": null,
+      "originalAirDate": null,
+      "programType": "Movie",
+      "releaseYear": 2002,
+      "duration": 93,
+      "subcategory": "comedy",
+      "syndicated": false,
+      "programLanguage": "English",
+      "partNumber": null,
+      "partTotal": null,
+      "parentalRatings": null,
+      "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=21184603&language=en&country=US",
+      "cast": null,
+      "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=21184603&language=en&country=US",
+      "crew": null,
+      "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=21184603&language=en&country=US",
+      "awards": null,
+      "awardsUri": null,
+      "images": null,
+      "imagesUri": null,
+      "clip": null,
+      "clipUri": null,
+      "seasons": null,
+      "seasonsUri": null,
+      "variants": [
+        {
+        "videoHandle": {
+          "id": 21184603,
+          "providerId": 2
+        },
+        "providerTitle": "Hacks",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 21184603,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "V   308551",
+          "providerId": 3
+        },
+        "providerTitle": "Hacks",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": "V   308551",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 470017352,
+          "providerId": 5
+        },
+        "providerTitle": "Hacks",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 470017352,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 249003,
+          "providerId": 8
+        },
+        "providerTitle": "Hacks",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 249003,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 21584,
+          "providerId": 9
+        },
+        "providerTitle": "Hacks",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 21584,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 101543,
+          "providerId": 51
+        },
+        "providerTitle": "Hacks",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 101543,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      }],
+      "variantsUri": null,
+      "schedule": "",
+      "scheduleUri": null,
+      "event": null,
+      "eventUri": null,
+      "keywords": null,
+      "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=21184603&language=en&country=US",
+      "moods": null,
+      "moodsUri": null,
+      "related": null,
+      "relatedUri": null,
+      "review": null,
+      "reviewUri": null,
+      "synopsis": null,
+      "synopsisUri": null,
+      "themes": null,
+      "themesUri": null,
+      "tones": null,
+      "tonesUri": null
+    }
+  },
+  {
+    "type": "movie",
+    "relevance": [
+      {
+      "code": "Score",
+      "value": 0.022440614
+    }],
+    "id": 1221548,
+    "messages": null,
+    "video": {
+      "ids": {
+        "amgMovieId": null,
+        "cosmoId": "1221548",
+        "iguideId": 1221548
+      },
+      "seriesIds": null,
+      "masterTitle": "Shanks",
+      "secondaryTitle": "",
+      "episodeTitle": null,
+      "category": "Movie",
+      "color": "Color",
+      "lastAirDate": null,
+      "originalAirDate": null,
+      "programType": "Movie",
+      "releaseYear": 1974,
+      "duration": 93,
+      "subcategory": "drama",
+      "syndicated": false,
+      "programLanguage": "English",
+      "partNumber": null,
+      "partTotal": null,
+      "parentalRatings": null,
+      "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1221548&language=en&country=US",
+      "cast": null,
+      "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1221548&language=en&country=US",
+      "crew": null,
+      "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1221548&language=en&country=US",
+      "awards": null,
+      "awardsUri": null,
+      "images": null,
+      "imagesUri": null,
+      "clip": null,
+      "clipUri": null,
+      "seasons": null,
+      "seasonsUri": null,
+      "variants": [
+        {
+        "videoHandle": {
+          "id": 1221548,
+          "providerId": 2
+        },
+        "providerTitle": "Shanks",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 1221548,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "V   109735",
+          "providerId": 3
+        },
+        "providerTitle": "Shanks",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": "V   109735",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 770674007,
+          "providerId": 9
+        },
+        "providerTitle": "Shanks",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 770674007,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 196097,
+          "providerId": 87
+        },
+        "providerTitle": "Shanks",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 196097,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      }],
+      "variantsUri": null,
+      "schedule": "",
+      "scheduleUri": null,
+      "event": null,
+      "eventUri": null,
+      "keywords": null,
+      "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1221548&language=en&country=US",
+      "moods": null,
+      "moodsUri": null,
+      "related": null,
+      "relatedUri": null,
+      "review": null,
+      "reviewUri": null,
+      "synopsis": null,
+      "synopsisUri": null,
+      "themes": null,
+      "themesUri": null,
+      "tones": null,
+      "tonesUri": null
+    }
+  },
+  {
+    "type": "movie",
+    "relevance": [
+      {
+      "code": "Score",
+      "value": 0.021549176
+    }],
+    "id": 2896521,
+    "messages": null,
+    "video": {
+      "ids": {
+        "amgMovieId": null,
+        "cosmoId": "2896521",
+        "iguideId": 2896521
+      },
+      "seriesIds": null,
+      "masterTitle": "Hawks",
+      "secondaryTitle": "",
+      "episodeTitle": null,
+      "category": "Movie",
+      "color": "Color",
+      "lastAirDate": null,
+      "originalAirDate": null,
+      "programType": "Movie",
+      "releaseYear": 1988,
+      "duration": 105,
+      "subcategory": "comedy-drama",
+      "syndicated": false,
+      "programLanguage": "English",
+      "partNumber": null,
+      "partTotal": null,
+      "parentalRatings": null,
+      "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=2896521&language=en&country=US",
+      "cast": null,
+      "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=2896521&language=en&country=US",
+      "crew": null,
+      "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=2896521&language=en&country=US",
+      "awards": null,
+      "awardsUri": null,
+      "images": null,
+      "imagesUri": null,
+      "clip": null,
+      "clipUri": null,
+      "seasons": null,
+      "seasonsUri": null,
+      "variants": [
+        {
+        "videoHandle": {
+          "id": 15755478,
+          "providerId": 2
+        },
+        "providerTitle": "Hawks",
+        "streamable": 1,
+        "programLanguage": "Spanish",
+        "originalProgramId": 15755478,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 15755479,
+          "providerId": 2
+        },
+        "providerTitle": "Die Falken",
+        "streamable": 1,
+        "programLanguage": "German",
+        "originalProgramId": 15755479,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 15755480,
+          "providerId": 2
+        },
+        "providerTitle": "Hawks - venner for livet",
+        "streamable": 1,
+        "programLanguage": "Danish",
+        "originalProgramId": 15755480,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 19016550,
+          "providerId": 2
+        },
+        "providerTitle": "Hawks",
+        "streamable": 1,
+        "programLanguage": "Dutch",
+        "originalProgramId": 19016550,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 2896521,
+          "providerId": 2
+        },
+        "providerTitle": "Hawks",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": 2896521,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 4981025,
+          "providerId": 2
+        },
+        "providerTitle": "Jóvenes Halcones",
+        "streamable": 1,
+        "programLanguage": "Spanish",
+        "originalProgramId": 4981025,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 4997522,
+          "providerId": 2
+        },
+        "providerTitle": "Hawks",
+        "streamable": 1,
+        "programLanguage": "Portuguese",
+        "originalProgramId": 4997522,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "V    21735",
+          "providerId": 3
+        },
+        "providerTitle": "Hawks",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "V    21735",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 470153710,
+          "providerId": 5
+        },
+        "providerTitle": "Hawks",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": 470153710,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 969670,
+          "providerId": 6
+        },
+        "providerTitle": "Hawks",
+        "streamable": null,
+        "programLanguage": null,
+        "originalProgramId": 969670,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 432360588,
+          "providerId": 9
+        },
+        "providerTitle": "Hawks",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 432360588,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 5808,
+          "providerId": 51
+        },
+        "providerTitle": "Hawks",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 5808,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 149763,
+          "providerId": 87
+        },
+        "providerTitle": "Hawks",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 149763,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "XPPK0000000000120275",
+          "providerId": 95
+        },
+        "providerTitle": "Hawks",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": "XPPK0000000000120275",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 470153710,
+          "providerId": 103
+        },
+        "providerTitle": "Hawks",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": 470153710,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      }],
+      "variantsUri": null,
+      "schedule": "",
+      "scheduleUri": null,
+      "event": null,
+      "eventUri": null,
+      "keywords": null,
+      "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=2896521&language=en&country=US",
+      "moods": null,
+      "moodsUri": null,
+      "related": null,
+      "relatedUri": null,
+      "review": null,
+      "reviewUri": null,
+      "synopsis": null,
+      "synopsisUri": null,
+      "themes": null,
+      "themesUri": null,
+      "tones": null,
+      "tonesUri": null
+    }
+  },
+  {
+    "type": "movie",
+    "relevance": [
+      {
+      "code": "Score",
+      "value": 0.01999573
+    }],
+    "id": 1214747,
+    "messages": null,
+    "video": {
+      "ids": {
+        "amgMovieId": null,
+        "cosmoId": "1214747",
+        "iguideId": 1214747
+      },
+      "seriesIds": null,
+      "masterTitle": "Living Proof: The Hank Williams, Jr. Story",
+      "secondaryTitle": "",
+      "episodeTitle": null,
+      "category": "Movie",
+      "color": "Color",
+      "lastAirDate": null,
+      "originalAirDate": null,
+      "programType": "Movie",
+      "releaseYear": 1983,
+      "duration": 128,
+      "subcategory": "drama",
+      "syndicated": false,
+      "programLanguage": "English",
+      "partNumber": null,
+      "partTotal": null,
+      "parentalRatings": null,
+      "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1214747&language=en&country=US",
+      "cast": null,
+      "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1214747&language=en&country=US",
+      "crew": null,
+      "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1214747&language=en&country=US",
+      "awards": null,
+      "awardsUri": null,
+      "images": null,
+      "imagesUri": null,
+      "clip": null,
+      "clipUri": null,
+      "seasons": null,
+      "seasonsUri": null,
+      "variants": [
+        {
+        "videoHandle": {
+          "id": 1214747,
+          "providerId": 2
+        },
+        "providerTitle": "Living Proof: The Hank Williams, Jr. Story",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 1214747,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "V   127077",
+          "providerId": 3
+        },
+        "providerTitle": "Living Proof: The Hank Williams Jr. Story",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": "V   127077",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 770673427,
+          "providerId": 9
+        },
+        "providerTitle": "Living Proof: The Hank Williams, Jr. Story",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 770673427,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 7743,
+          "providerId": 51
+        },
+        "providerTitle": "Living Proof",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 7743,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 185089,
+          "providerId": 87
+        },
+        "providerTitle": "Living Proof: The Hank Williams Jr. Story",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 185089,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      }],
+      "variantsUri": null,
+      "schedule": "",
+      "scheduleUri": null,
+      "event": null,
+      "eventUri": null,
+      "keywords": null,
+      "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1214747&language=en&country=US",
+      "moods": null,
+      "moodsUri": null,
+      "related": null,
+      "relatedUri": null,
+      "review": null,
+      "reviewUri": null,
+      "synopsis": null,
+      "synopsisUri": null,
+      "themes": null,
+      "themesUri": null,
+      "tones": null,
+      "tonesUri": null
+    }
+  },
+  {
+    "type": "movie",
+    "relevance": [
+      {
+      "code": "Score",
+      "value": 0.01928496
+    }],
+    "id": 10630169,
+    "messages": null,
+    "video": {
+      "ids": {
+        "amgMovieId": null,
+        "cosmoId": "10630169",
+        "iguideId": 10630169
+      },
+      "seriesIds": null,
+      "masterTitle": "Dirty Hands: The Art & Crimes of David Choe",
+      "secondaryTitle": "",
+      "episodeTitle": null,
+      "category": "Movie",
+      "color": "Color",
+      "lastAirDate": null,
+      "originalAirDate": null,
+      "programType": "Movie",
+      "releaseYear": 2008,
+      "duration": 92,
+      "subcategory": "documentary",
+      "syndicated": false,
+      "programLanguage": "English",
+      "partNumber": null,
+      "partTotal": null,
+      "parentalRatings": null,
+      "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=10630169&language=en&country=US",
+      "cast": null,
+      "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=10630169&language=en&country=US",
+      "crew": null,
+      "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=10630169&language=en&country=US",
+      "awards": null,
+      "awardsUri": null,
+      "images": null,
+      "imagesUri": "http://api.rovicorp.com/data/v1/video/images?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=10630169&language=en&country=US",
+      "clip": null,
+      "clipUri": null,
+      "seasons": null,
+      "seasonsUri": null,
+      "variants": [
+        {
+        "videoHandle": {
+          "id": 10630169,
+          "providerId": 2
+        },
+        "providerTitle": "Dirty Hands: The Art & Crimes of David Choe",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": 10630169,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "V   455576",
+          "providerId": 3
+        },
+        "providerTitle": "Dirty Hands: The Art & Crimes of David Choe",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "V   455576",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 470100720,
+          "providerId": 5
+        },
+        "providerTitle": "Dirty Hands: The Art & Crimes of David Choe",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 470100720,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 533040,
+          "providerId": 6
+        },
+        "providerTitle": "Dirty Hands: The Art & Crimes of David Choe",
+        "streamable": null,
+        "programLanguage": null,
+        "originalProgramId": 533040,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 770780958,
+          "providerId": 9
+        },
+        "providerTitle": "Dirty Hands: The Art & Crimes of David Choe",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 770780958,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "indemand.com||INTL0212000003789615",
+          "providerId": 52
+        },
+        "providerTitle": "Dirty Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "indemand.com||INTL0212000003789615",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "indemand.com||INTL0712000005284116",
+          "providerId": 52
+        },
+        "providerTitle": "Dirty Hands: The Art And Crimes Of David Choe",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "indemand.com||INTL0712000005284116",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 273830,
+          "providerId": 87
+        },
+        "providerTitle": "Dirty Hands: The Art & Crimes of David Choe",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 273830,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      }],
+      "variantsUri": null,
+      "schedule": "",
+      "scheduleUri": null,
+      "event": null,
+      "eventUri": null,
+      "keywords": null,
+      "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=10630169&language=en&country=US",
+      "moods": null,
+      "moodsUri": null,
+      "related": null,
+      "relatedUri": null,
+      "review": null,
+      "reviewUri": null,
+      "synopsis": null,
+      "synopsisUri": null,
+      "themes": null,
+      "themesUri": null,
+      "tones": null,
+      "tonesUri": null
+    }
+  },
+  {
+    "type": "movie",
+    "relevance": [
+      {
+      "code": "Score",
+      "value": 0.018993584
+    }],
+    "id": 2064789,
+    "messages": null,
+    "video": {
+      "ids": {
+        "amgMovieId": null,
+        "cosmoId": "2064789",
+        "iguideId": 2064789
+      },
+      "seriesIds": null,
+      "masterTitle": "Idle Hands",
+      "secondaryTitle": "",
+      "episodeTitle": null,
+      "category": "Movie",
+      "color": "Color",
+      "lastAirDate": null,
+      "originalAirDate": null,
+      "programType": "Movie",
+      "releaseYear": 1999,
+      "duration": 92,
+      "subcategory": "horror",
+      "syndicated": false,
+      "programLanguage": "English",
+      "partNumber": null,
+      "partTotal": null,
+      "parentalRatings": null,
+      "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=2064789&language=en&country=US",
+      "cast": null,
+      "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=2064789&language=en&country=US",
+      "crew": null,
+      "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=2064789&language=en&country=US",
+      "awards": null,
+      "awardsUri": null,
+      "images": null,
+      "imagesUri": "http://api.rovicorp.com/data/v1/video/images?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=2064789&language=en&country=US",
+      "clip": null,
+      "clipUri": null,
+      "seasons": null,
+      "seasonsUri": null,
+      "variants": [
+        {
+        "videoHandle": {
+          "id": 82700,
+          "providerId": 1
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": 82700,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 15756356,
+          "providerId": 2
+        },
+        "providerTitle": "El diablo metió la mano",
+        "streamable": 1,
+        "programLanguage": "Basque",
+        "originalProgramId": 15756356,
+        "streamableLastUpdateDate": "2013-08-23T00:00:00Z",
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 15756357,
+          "providerId": 2
+        },
+        "providerTitle": "Levottomat kädet",
+        "streamable": 1,
+        "programLanguage": "Finnish",
+        "originalProgramId": 15756357,
+        "streamableLastUpdateDate": "2013-08-23T00:00:00Z",
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 15756358,
+          "providerId": 2
+        },
+        "providerTitle": "Giovani diavoli",
+        "streamable": 1,
+        "programLanguage": "Italian",
+        "originalProgramId": 15756358,
+        "streamableLastUpdateDate": "2013-08-23T00:00:00Z",
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 15756359,
+          "providerId": 2
+        },
+        "providerTitle": "Ivrige hænder",
+        "streamable": 1,
+        "programLanguage": "Danish",
+        "originalProgramId": 15756359,
+        "streamableLastUpdateDate": "2013-08-23T00:00:00Z",
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 15756360,
+          "providerId": 2
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "Swedish",
+        "originalProgramId": 15756360,
+        "streamableLastUpdateDate": "2013-08-23T00:00:00Z",
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 15756361,
+          "providerId": 2
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "Dutch",
+        "originalProgramId": 15756361,
+        "streamableLastUpdateDate": "2013-08-23T00:00:00Z",
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 15756362,
+          "providerId": 2
+        },
+        "providerTitle": "La main qui tue",
+        "streamable": 1,
+        "programLanguage": "French",
+        "originalProgramId": 15756362,
+        "streamableLastUpdateDate": "2013-08-23T00:00:00Z",
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 15756363,
+          "providerId": 2
+        },
+        "providerTitle": "Die Killerhand",
+        "streamable": 1,
+        "programLanguage": "German",
+        "originalProgramId": 15756363,
+        "streamableLastUpdateDate": "2013-08-23T00:00:00Z",
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 15756364,
+          "providerId": 2
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "Norwegian",
+        "originalProgramId": 15756364,
+        "streamableLastUpdateDate": "2013-08-23T00:00:00Z",
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 2064789,
+          "providerId": 2
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": 2064789,
+        "streamableLastUpdateDate": "2013-08-23T00:00:00Z",
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 2191404,
+          "providerId": 2
+        },
+        "providerTitle": "La main meurtrière",
+        "streamable": 1,
+        "programLanguage": "French",
+        "originalProgramId": 2191404,
+        "streamableLastUpdateDate": "2013-08-23T00:00:00Z",
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 22432894,
+          "providerId": 2
+        },
+        "providerTitle": "Zabójcze rozdanie",
+        "streamable": 1,
+        "programLanguage": "Polish",
+        "originalProgramId": 22432894,
+        "streamableLastUpdateDate": "2013-08-23T00:00:00Z",
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 2681412,
+          "providerId": 2
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "Spanish",
+        "originalProgramId": 2681412,
+        "streamableLastUpdateDate": "2013-08-23T00:00:00Z",
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 3026232,
+          "providerId": 2
+        },
+        "providerTitle": "El diablo metió la mano",
+        "streamable": 1,
+        "programLanguage": "Spanish",
+        "originalProgramId": 3026232,
+        "streamableLastUpdateDate": "2013-08-23T00:00:00Z",
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 3557250,
+          "providerId": 2
+        },
+        "providerTitle": "El Diablo Metió la Pata",
+        "streamable": 1,
+        "programLanguage": "Spanish",
+        "originalProgramId": 3557250,
+        "streamableLastUpdateDate": "2013-08-23T00:00:00Z",
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 4543940,
+          "providerId": 2
+        },
+        "providerTitle": "A Mão Assassina",
+        "streamable": 1,
+        "programLanguage": "Portuguese",
+        "originalProgramId": 4543940,
+        "streamableLastUpdateDate": "2013-08-23T00:00:00Z",
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "V   179452",
+          "providerId": 3
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "V   179452",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 420371448,
+          "providerId": 5
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 420371448,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 8338,
+          "providerId": 6
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": null,
+        "programLanguage": null,
+        "originalProgramId": 8338,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 134248,
+          "providerId": 8
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": 134248,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 13416,
+          "providerId": 9
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 13416,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "B000ID1PUI",
+          "providerId": 19
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "B000ID1PUI",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 14330,
+          "providerId": 32
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": null,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 2235,
+          "providerId": 40
+        },
+        "providerTitle": "Idle Hands (SVOD/TVOD)",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": 2235,
+        "streamableLastUpdateDate": "2013-08-23T00:00:00Z",
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 55888,
+          "providerId": 51
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 55888,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "cinemax.cdn||MXST0000000000489938",
+          "providerId": 52
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "cinemax.cdn||MXST0000000000489938",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "cinemax-hd.com||MXHT0000000000489938",
+          "providerId": 52
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "cinemax-hd.com||MXHT0000000000489938",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "fearnet.com||CCDN1000000003287845",
+          "providerId": 52
+        },
+        "providerTitle": "Free Movies!/FEARnet/All Movies",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "fearnet.com||CCDN1000000003287845",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "fearnet.com||CCDN1000000003287850",
+          "providerId": 52
+        },
+        "providerTitle": "Movies//Movie Collections/Halloween Moviethon",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "fearnet.com||CCDN1000000003287850",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "fearnet.com||CCDN1000000003420867",
+          "providerId": 52
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "fearnet.com||CCDN1000000003420867",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "fearnet.com||CCDN1000000003420872",
+          "providerId": 52
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "fearnet.com||CCDN1000000003420872",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "fearnet.com||CCDN1000000003508231",
+          "providerId": 52
+        },
+        "providerTitle": "All Movies",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "fearnet.com||CCDN1000000003508231",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "fearnet.com||CCDN1000000003508236",
+          "providerId": 52
+        },
+        "providerTitle": "FearNet",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "fearnet.com||CCDN1000000003508236",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "fearnet.com||TITL0001350493366455",
+          "providerId": 52
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "fearnet.com||TITL0001350493366455",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "indemand.com||INTL0912000055465035",
+          "providerId": 52
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "indemand.com||INTL0912000055465035",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "indemand.com||INTL0912000055465036",
+          "providerId": 52
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "indemand.com||INTL0912000055465036",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "indemand.com||INTL1212000055468198",
+          "providerId": 52
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "indemand.com||INTL1212000055468198",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "indemand.com||INTL1212000055468199",
+          "providerId": 52
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "indemand.com||INTL1212000055468199",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 555419,
+          "providerId": 82
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": 555419,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 82700,
+          "providerId": 82
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": 82700,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 118540,
+          "providerId": 86
+        },
+        "providerTitle": "La main qui tue",
+        "streamable": 1,
+        "programLanguage": "French",
+        "originalProgramId": 118540,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 151860,
+          "providerId": 87
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 151860,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "SMCP1363833972899907",
+          "providerId": 95
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": "SMCP1363833972899907",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "TVNX0015821601332590",
+          "providerId": 95
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": "TVNX0015821601332590",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "fd226fd1258843598c9d63992604b5eb",
+          "providerId": 98
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "fd226fd1258843598c9d63992604b5eb",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 2434385,
+          "providerId": 114
+        },
+        "providerTitle": "Idle Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": 2434385,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      }],
+      "variantsUri": null,
+      "schedule": "",
+      "scheduleUri": null,
+      "event": null,
+      "eventUri": null,
+      "keywords": null,
+      "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=2064789&language=en&country=US",
+      "moods": null,
+      "moodsUri": null,
+      "related": null,
+      "relatedUri": null,
+      "review": null,
+      "reviewUri": null,
+      "synopsis": null,
+      "synopsisUri": null,
+      "themes": null,
+      "themesUri": null,
+      "tones": null,
+      "tonesUri": null
+    }
+  },
+  {
+    "type": "movie",
+    "relevance": [
+      {
+      "code": "Score",
+      "value": 0.018853486
+    }],
+    "id": 1205289,
+    "messages": null,
+    "video": {
+      "ids": {
+        "amgMovieId": null,
+        "cosmoId": "1205289",
+        "iguideId": 1205289
+      },
+      "seriesIds": null,
+      "masterTitle": "Hands Across the Table",
+      "secondaryTitle": "",
+      "episodeTitle": null,
+      "category": "Movie",
+      "color": "Black and White",
+      "lastAirDate": null,
+      "originalAirDate": null,
+      "programType": "Movie",
+      "releaseYear": 1935,
+      "duration": 81,
+      "subcategory": "comedy",
+      "syndicated": false,
+      "programLanguage": "English",
+      "partNumber": null,
+      "partTotal": null,
+      "parentalRatings": null,
+      "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1205289&language=en&country=US",
+      "cast": null,
+      "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1205289&language=en&country=US",
+      "crew": null,
+      "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1205289&language=en&country=US",
+      "awards": null,
+      "awardsUri": null,
+      "images": null,
+      "imagesUri": null,
+      "clip": null,
+      "clipUri": null,
+      "seasons": null,
+      "seasonsUri": null,
+      "variants": [
+        {
+        "videoHandle": {
+          "id": 1205289,
+          "providerId": 2
+        },
+        "providerTitle": "Hands Across the Table",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 1205289,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "V    94238",
+          "providerId": 3
+        },
+        "providerTitle": "Hands Across the Table",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": "V    94238",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 239968,
+          "providerId": 6
+        },
+        "providerTitle": "Hands Across the Table",
+        "streamable": null,
+        "programLanguage": null,
+        "originalProgramId": 239968,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 770671499,
+          "providerId": 9
+        },
+        "providerTitle": "Hands Across the Table",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 770671499,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 163764,
+          "providerId": 87
+        },
+        "providerTitle": "Hands Across the Table",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 163764,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      }],
+      "variantsUri": null,
+      "schedule": "",
+      "scheduleUri": null,
+      "event": null,
+      "eventUri": null,
+      "keywords": null,
+      "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1205289&language=en&country=US",
+      "moods": null,
+      "moodsUri": null,
+      "related": null,
+      "relatedUri": null,
+      "review": null,
+      "reviewUri": null,
+      "synopsis": null,
+      "synopsisUri": null,
+      "themes": null,
+      "themesUri": null,
+      "tones": null,
+      "tonesUri": null
+    }
+  },
+  {
+    "type": "movie",
+    "relevance": [
+      {
+      "code": "Score",
+      "value": 0.018779604
+    }],
+    "id": 55730,
+    "messages": null,
+    "video": {
+      "ids": {
+        "amgMovieId": null,
+        "cosmoId": "55730",
+        "iguideId": 55730
+      },
+      "seriesIds": null,
+      "masterTitle": "Hands Across the Border",
+      "secondaryTitle": "",
+      "episodeTitle": null,
+      "category": "Movie",
+      "color": "Black and White",
+      "lastAirDate": null,
+      "originalAirDate": null,
+      "programType": "Movie",
+      "releaseYear": 1943,
+      "duration": 72,
+      "subcategory": "western",
+      "syndicated": false,
+      "programLanguage": "English",
+      "partNumber": null,
+      "partTotal": null,
+      "parentalRatings": null,
+      "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=55730&language=en&country=US",
+      "cast": null,
+      "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=55730&language=en&country=US",
+      "crew": null,
+      "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=55730&language=en&country=US",
+      "awards": null,
+      "awardsUri": null,
+      "images": null,
+      "imagesUri": null,
+      "clip": null,
+      "clipUri": null,
+      "seasons": null,
+      "seasonsUri": null,
+      "variants": [
+        {
+        "videoHandle": {
+          "id": 55730,
+          "providerId": 2
+        },
+        "providerTitle": "Hands Across the Border",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": 55730,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "V    21381",
+          "providerId": 3
+        },
+        "providerTitle": "Hands Across the Border",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "V    21381",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 770903963,
+          "providerId": 9
+        },
+        "providerTitle": "Hands Across the Border",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 770903963,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "B002KOEJH4",
+          "providerId": 19
+        },
+        "providerTitle": "Hands Across the Border",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "B002KOEJH4",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 181277,
+          "providerId": 87
+        },
+        "providerTitle": "Hands Across the Border",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 181277,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      }],
+      "variantsUri": null,
+      "schedule": "",
+      "scheduleUri": null,
+      "event": null,
+      "eventUri": null,
+      "keywords": null,
+      "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=55730&language=en&country=US",
+      "moods": null,
+      "moodsUri": null,
+      "related": null,
+      "relatedUri": null,
+      "review": null,
+      "reviewUri": null,
+      "synopsis": null,
+      "synopsisUri": null,
+      "themes": null,
+      "themesUri": null,
+      "tones": null,
+      "tonesUri": null
+    }
+  },
+  {
+    "type": "movie",
+    "relevance": [
+      {
+      "code": "Score",
+      "value": 0.018777374
+    }],
+    "id": 1199327,
+    "messages": null,
+    "video": {
+      "ids": {
+        "amgMovieId": null,
+        "cosmoId": "1199327",
+        "iguideId": 1199327
+      },
+      "seriesIds": null,
+      "masterTitle": "Air Hawks",
+      "secondaryTitle": "",
+      "episodeTitle": null,
+      "category": "Movie",
+      "color": "Black and White",
+      "lastAirDate": null,
+      "originalAirDate": null,
+      "programType": "Movie",
+      "releaseYear": 1935,
+      "duration": 68,
+      "subcategory": "drama",
+      "syndicated": false,
+      "programLanguage": "English",
+      "partNumber": null,
+      "partTotal": null,
+      "parentalRatings": null,
+      "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1199327&language=en&country=US",
+      "cast": null,
+      "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1199327&language=en&country=US",
+      "crew": null,
+      "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1199327&language=en&country=US",
+      "awards": null,
+      "awardsUri": null,
+      "images": null,
+      "imagesUri": null,
+      "clip": null,
+      "clipUri": null,
+      "seasons": null,
+      "seasonsUri": null,
+      "variants": [
+        {
+        "videoHandle": {
+          "id": 1199327,
+          "providerId": 2
+        },
+        "providerTitle": "Air Hawks",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 1199327,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "V    83332",
+          "providerId": 3
+        },
+        "providerTitle": "Air Hawks",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": "V    83332",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 188072,
+          "providerId": 87
+        },
+        "providerTitle": "Air Hawks",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 188072,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      }],
+      "variantsUri": null,
+      "schedule": "",
+      "scheduleUri": null,
+      "event": null,
+      "eventUri": null,
+      "keywords": null,
+      "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1199327&language=en&country=US",
+      "moods": null,
+      "moodsUri": null,
+      "related": null,
+      "relatedUri": null,
+      "review": null,
+      "reviewUri": null,
+      "synopsis": null,
+      "synopsisUri": null,
+      "themes": null,
+      "themesUri": null,
+      "tones": null,
+      "tonesUri": null
+    }
+  },
+  {
+    "type": "movie",
+    "relevance": [
+      {
+      "code": "Score",
+      "value": 0.018504694
+    }],
+    "id": 18773006,
+    "messages": null,
+    "video": {
+      "ids": {
+        "amgMovieId": null,
+        "cosmoId": "18773006",
+        "iguideId": 2815878
+      },
+      "seriesIds": null,
+      "masterTitle": "Hanka",
+      "secondaryTitle": "",
+      "episodeTitle": null,
+      "category": "Movie",
+      "color": "Color",
+      "lastAirDate": null,
+      "originalAirDate": null,
+      "programType": "Movie",
+      "releaseYear": 1955,
+      "duration": 0,
+      "subcategory": "documentary",
+      "syndicated": false,
+      "programLanguage": "English",
+      "partNumber": null,
+      "partTotal": null,
+      "parentalRatings": null,
+      "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18773006&language=en&country=US",
+      "cast": null,
+      "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18773006&language=en&country=US",
+      "crew": null,
+      "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18773006&language=en&country=US",
+      "awards": null,
+      "awardsUri": null,
+      "images": null,
+      "imagesUri": null,
+      "clip": null,
+      "clipUri": null,
+      "seasons": null,
+      "seasonsUri": null,
+      "variants": [
+        {
+        "videoHandle": {
+          "id": 18773006,
+          "providerId": 2
+        },
+        "providerTitle": "Hanka",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 18773006,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 22665164,
+          "providerId": 2
+        },
+        "providerTitle": "Hanka",
+        "streamable": 0,
+        "programLanguage": "Polish",
+        "originalProgramId": 22665164,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "V   148565",
+          "providerId": 3
+        },
+        "providerTitle": "Hanka",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": "V   148565",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      }],
+      "variantsUri": null,
+      "schedule": "",
+      "scheduleUri": null,
+      "event": null,
+      "eventUri": null,
+      "keywords": null,
+      "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18773006&language=en&country=US",
+      "moods": null,
+      "moodsUri": null,
+      "related": null,
+      "relatedUri": null,
+      "review": null,
+      "reviewUri": null,
+      "synopsis": null,
+      "synopsisUri": null,
+      "themes": null,
+      "themesUri": null,
+      "tones": null,
+      "tonesUri": null
+    }
+  },
+  {
+    "type": "movie",
+    "relevance": [
+      {
+      "code": "Score",
+      "value": 0.018416436
+    }],
+    "id": 418676,
+    "messages": null,
+    "video": {
+      "ids": {
+        "amgMovieId": null,
+        "cosmoId": "418676",
+        "iguideId": 418676
+      },
+      "seriesIds": null,
+      "masterTitle": "In God's Hands",
+      "secondaryTitle": "",
+      "episodeTitle": null,
+      "category": "Movie",
+      "color": "Color",
+      "lastAirDate": null,
+      "originalAirDate": null,
+      "programType": "Movie",
+      "releaseYear": 1998,
+      "duration": 92,
+      "subcategory": "documentary",
+      "syndicated": false,
+      "programLanguage": "English",
+      "partNumber": null,
+      "partTotal": null,
+      "parentalRatings": null,
+      "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=418676&language=en&country=US",
+      "cast": null,
+      "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=418676&language=en&country=US",
+      "crew": null,
+      "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=418676&language=en&country=US",
+      "awards": null,
+      "awardsUri": null,
+      "images": null,
+      "imagesUri": "http://api.rovicorp.com/data/v1/video/images?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=418676&language=en&country=US",
+      "clip": null,
+      "clipUri": null,
+      "seasons": null,
+      "seasonsUri": null,
+      "variants": [
+        {
+        "videoHandle": {
+          "id": 15741861,
+          "providerId": 2
+        },
+        "providerTitle": "In Gottes Hand",
+        "streamable": 1,
+        "programLanguage": "German",
+        "originalProgramId": 15741861,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 15741862,
+          "providerId": 2
+        },
+        "providerTitle": "Surfer's paradise",
+        "streamable": 1,
+        "programLanguage": "Danish",
+        "originalProgramId": 15741862,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 15741863,
+          "providerId": 2
+        },
+        "providerTitle": "La grande onda",
+        "streamable": 1,
+        "programLanguage": "Italian",
+        "originalProgramId": 15741863,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 15741864,
+          "providerId": 2
+        },
+        "providerTitle": "I Guds hender",
+        "streamable": 1,
+        "programLanguage": "Norwegian",
+        "originalProgramId": 15741864,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 15741865,
+          "providerId": 2
+        },
+        "providerTitle": "Tyrskyn sankarit",
+        "streamable": 1,
+        "programLanguage": "Finnish",
+        "originalProgramId": 15741865,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 15741866,
+          "providerId": 2
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 1,
+        "programLanguage": "Swedish",
+        "originalProgramId": 15741866,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 15741867,
+          "providerId": 2
+        },
+        "providerTitle": "Les Dieux du surf",
+        "streamable": 1,
+        "programLanguage": "French",
+        "originalProgramId": 15741867,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 15741868,
+          "providerId": 2
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 1,
+        "programLanguage": "Dutch",
+        "originalProgramId": 15741868,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 2350535,
+          "providerId": 2
+        },
+        "providerTitle": "En Manos de Dios",
+        "streamable": 1,
+        "programLanguage": "Spanish",
+        "originalProgramId": 2350535,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 2384547,
+          "providerId": 2
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 1,
+        "programLanguage": "Spanish",
+        "originalProgramId": 2384547,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 3938910,
+          "providerId": 2
+        },
+        "providerTitle": "Nas Mãos de Deus",
+        "streamable": 1,
+        "programLanguage": "Portuguese",
+        "originalProgramId": 3938910,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 418676,
+          "providerId": 2
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": 418676,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 5102130,
+          "providerId": 2
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 1,
+        "programLanguage": "Portuguese",
+        "originalProgramId": 5102130,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 6401085,
+          "providerId": 2
+        },
+        "providerTitle": "Entre la vida y la muerte",
+        "streamable": 1,
+        "programLanguage": "Spanish",
+        "originalProgramId": 6401085,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "V   161629",
+          "providerId": 3
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "V   161629",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 414606152,
+          "providerId": 5
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 414606152,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 8262,
+          "providerId": 6
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": null,
+        "programLanguage": null,
+        "originalProgramId": 8262,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 117774,
+          "providerId": 8
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": 117774,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 11329,
+          "providerId": 9
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 11329,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "B000T10OQ0",
+          "providerId": 19
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "B000T10OQ0",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "B001EAYAJC",
+          "providerId": 19
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "B001EAYAJC",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "B0061ZSS5M",
+          "providerId": 19
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "B0061ZSS5M",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 13382,
+          "providerId": 32
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": null,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 51769,
+          "providerId": 51
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 51769,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "starzencore.com||TITL0001377809859989",
+          "providerId": 52
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "starzencore.com||TITL0001377809859989",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "starzencore.com||TITL0450000000849598",
+          "providerId": 52
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "starzencore.com||TITL0450000000849598",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "starzencore.com||TITL0450000000896316",
+          "providerId": 52
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "starzencore.com||TITL0450000000896316",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "starzencore.com||TITL9450000000849598",
+          "providerId": 52
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "starzencore.com||TITL9450000000849598",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "starzencore.com||TITL9450000000896316",
+          "providerId": 52
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "starzencore.com||TITL9450000000896316",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 246638,
+          "providerId": 82
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": 246638,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 151617,
+          "providerId": 87
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 151617,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "TVNX0015811201331550",
+          "providerId": 95
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": "TVNX0015811201331550",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "970d86c714d84b7f95ca090986af6587",
+          "providerId": 98
+        },
+        "providerTitle": "In God's Hands",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "970d86c714d84b7f95ca090986af6587",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      }],
+      "variantsUri": null,
+      "schedule": "",
+      "scheduleUri": null,
+      "event": null,
+      "eventUri": null,
+      "keywords": null,
+      "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=418676&language=en&country=US",
+      "moods": null,
+      "moodsUri": null,
+      "related": null,
+      "relatedUri": null,
+      "review": null,
+      "reviewUri": null,
+      "synopsis": null,
+      "synopsisUri": null,
+      "themes": null,
+      "themesUri": null,
+      "tones": null,
+      "tonesUri": null
+    }
+  },
+  {
+    "type": "movie",
+    "relevance": [
+      {
+      "code": "Score",
+      "value": 0.018370891
+    }],
+    "id": 1206727,
+    "messages": null,
+    "video": {
+      "ids": {
+        "amgMovieId": null,
+        "cosmoId": "1206727",
+        "iguideId": 1206727
+      },
+      "seriesIds": null,
+      "masterTitle": "Kiss the Blood Off My Hands",
+      "secondaryTitle": "",
+      "episodeTitle": null,
+      "category": "Movie",
+      "color": "Black and White",
+      "lastAirDate": null,
+      "originalAirDate": null,
+      "programType": "Movie",
+      "releaseYear": 1948,
+      "duration": 80,
+      "subcategory": "drama",
+      "syndicated": false,
+      "programLanguage": "English",
+      "partNumber": null,
+      "partTotal": null,
+      "parentalRatings": null,
+      "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1206727&language=en&country=US",
+      "cast": null,
+      "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1206727&language=en&country=US",
+      "crew": null,
+      "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1206727&language=en&country=US",
+      "awards": null,
+      "awardsUri": null,
+      "images": null,
+      "imagesUri": null,
+      "clip": null,
+      "clipUri": null,
+      "seasons": null,
+      "seasonsUri": null,
+      "variants": [
+        {
+        "videoHandle": {
+          "id": 1206727,
+          "providerId": 2
+        },
+        "providerTitle": "Kiss the Blood Off My Hands",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 1206727,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 15714920,
+          "providerId": 2
+        },
+        "providerTitle": "Bis zur letzten Stunde",
+        "streamable": 0,
+        "programLanguage": "German",
+        "originalProgramId": 15714920,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 15714921,
+          "providerId": 2
+        },
+        "providerTitle": "Per te ho ucciso",
+        "streamable": 0,
+        "programLanguage": "Italian",
+        "originalProgramId": 15714921,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 15714922,
+          "providerId": 2
+        },
+        "providerTitle": "Les amants traqués",
+        "streamable": 0,
+        "programLanguage": "French",
+        "originalProgramId": 15714922,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "V    97875",
+          "providerId": 3
+        },
+        "providerTitle": "Kiss the Blood Off My Hands",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": "V    97875",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 710150,
+          "providerId": 6
+        },
+        "providerTitle": "Kiss the Blood Off My Hands",
+        "streamable": null,
+        "programLanguage": null,
+        "originalProgramId": 710150,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 542896892,
+          "providerId": 9
+        },
+        "providerTitle": "Kiss the Blood Off My Hands",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 542896892,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 173545,
+          "providerId": 87
+        },
+        "providerTitle": "Kiss the Blood Off My Hands",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 173545,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      }],
+      "variantsUri": null,
+      "schedule": "",
+      "scheduleUri": null,
+      "event": null,
+      "eventUri": null,
+      "keywords": null,
+      "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1206727&language=en&country=US",
+      "moods": null,
+      "moodsUri": null,
+      "related": null,
+      "relatedUri": null,
+      "review": null,
+      "reviewUri": null,
+      "synopsis": null,
+      "synopsisUri": null,
+      "themes": null,
+      "themesUri": null,
+      "tones": null,
+      "tonesUri": null
+    }
+  },
+  {
+    "type": "movie",
+    "relevance": [
+      {
+      "code": "Score",
+      "value": 0.018321123
+    }],
+    "id": 7521327,
+    "messages": null,
+    "video": {
+      "ids": {
+        "amgMovieId": null,
+        "cosmoId": "7521327",
+        "iguideId": 7521327
+      },
+      "seriesIds": null,
+      "masterTitle": "Shake Hands With the Devil",
+      "secondaryTitle": "",
+      "episodeTitle": null,
+      "category": "Movie",
+      "color": "Color",
+      "lastAirDate": null,
+      "originalAirDate": null,
+      "programType": "Movie",
+      "releaseYear": 2007,
+      "duration": 113,
+      "subcategory": "drama",
+      "syndicated": false,
+      "programLanguage": "English",
+      "partNumber": null,
+      "partTotal": null,
+      "parentalRatings": null,
+      "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=7521327&language=en&country=US",
+      "cast": null,
+      "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=7521327&language=en&country=US",
+      "crew": null,
+      "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=7521327&language=en&country=US",
+      "awards": null,
+      "awardsUri": "http://api.rovicorp.com/data/v1/video/awards?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=7521327&language=en&country=US",
+      "images": null,
+      "imagesUri": "http://api.rovicorp.com/data/v1/video/images?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=7521327&language=en&country=US",
+      "clip": null,
+      "clipUri": null,
+      "seasons": null,
+      "seasonsUri": null,
+      "variants": [
+        {
+        "videoHandle": {
+          "id": 10355875,
+          "providerId": 2
+        },
+        "providerTitle": "Aperte as Mãos do Diabo",
+        "streamable": 1,
+        "programLanguage": "Portuguese",
+        "originalProgramId": 10355875,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 22219840,
+          "providerId": 2
+        },
+        "providerTitle": "Podac reke diablu",
+        "streamable": 1,
+        "programLanguage": "Polish",
+        "originalProgramId": 22219840,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 7521327,
+          "providerId": 2
+        },
+        "providerTitle": "Shake Hands With the Devil",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": 7521327,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 7611565,
+          "providerId": 2
+        },
+        "providerTitle": "J'ai serré la main du diable",
+        "streamable": 1,
+        "programLanguage": "French",
+        "originalProgramId": 7611565,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "V   358713",
+          "providerId": 3
+        },
+        "providerTitle": "Shake Hands With the Devil",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "V   358713",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 470130684,
+          "providerId": 5
+        },
+        "providerTitle": "Shake Hands With the Devil",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 470130684,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 607029,
+          "providerId": 6
+        },
+        "providerTitle": "Shake Hands With the Devil",
+        "streamable": null,
+        "programLanguage": null,
+        "originalProgramId": 607029,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 310628,
+          "providerId": 8
+        },
+        "providerTitle": "Shake Hands With the Devil",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 310628,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 770676351,
+          "providerId": 9
+        },
+        "providerTitle": "Shake Hands With the Devil",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 770676351,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "tvn.com||TVNX0007653601028340",
+          "providerId": 52
+        },
+        "providerTitle": "Shake Hands With the Devil",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "tvn.com||TVNX0007653601028340",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 237678,
+          "providerId": 87
+        },
+        "providerTitle": "J'ai Serr‚ la Main du Diable",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 237678,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      }],
+      "variantsUri": null,
+      "schedule": "",
+      "scheduleUri": null,
+      "event": null,
+      "eventUri": null,
+      "keywords": null,
+      "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=7521327&language=en&country=US",
+      "moods": null,
+      "moodsUri": null,
+      "related": null,
+      "relatedUri": null,
+      "review": null,
+      "reviewUri": null,
+      "synopsis": null,
+      "synopsisUri": null,
+      "themes": null,
+      "themesUri": null,
+      "tones": null,
+      "tonesUri": null
+    }
+  },
+  {
+    "type": "movie",
+    "relevance": [
+      {
+      "code": "Score",
+      "value": 0.017671473
+    }],
+    "id": 4818173,
+    "messages": null,
+    "video": {
+      "ids": {
+        "amgMovieId": null,
+        "cosmoId": "4818173",
+        "iguideId": 4818173
+      },
+      "seriesIds": null,
+      "masterTitle": "Shake Hands with the Devil: Journey/Romeo Dallaire",
+      "secondaryTitle": "",
+      "episodeTitle": null,
+      "category": "Movie",
+      "color": "Color",
+      "lastAirDate": null,
+      "originalAirDate": null,
+      "programType": "Movie",
+      "releaseYear": 2004,
+      "duration": 91,
+      "subcategory": "documentary",
+      "syndicated": false,
+      "programLanguage": "English",
+      "partNumber": null,
+      "partTotal": null,
+      "parentalRatings": null,
+      "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=4818173&language=en&country=US",
+      "cast": null,
+      "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=4818173&language=en&country=US",
+      "crew": null,
+      "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=4818173&language=en&country=US",
+      "awards": null,
+      "awardsUri": "http://api.rovicorp.com/data/v1/video/awards?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=4818173&language=en&country=US",
+      "images": null,
+      "imagesUri": null,
+      "clip": null,
+      "clipUri": null,
+      "seasons": null,
+      "seasonsUri": null,
+      "variants": [
+        {
+        "videoHandle": {
+          "id": 4818173,
+          "providerId": 2
+        },
+        "providerTitle": "Shake Hands with the Devil: The Journey of Romeo Dallaire",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": 4818173,
+        "streamableLastUpdateDate": "2013-10-05T00:00:00Z",
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "V   315458",
+          "providerId": 3
+        },
+        "providerTitle": "Shake Hands with the Devil: The Journey of Roméo Dallaire",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": "V   315458",
+        "streamableLastUpdateDate": "2013-10-05T00:00:00Z",
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 470024104,
+          "providerId": 5
+        },
+        "providerTitle": "Shake Hands with the Devil: The Journey of Roméo Dallaire",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 470024104,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 405589419,
+          "providerId": 9
+        },
+        "providerTitle": "Shake Hands with the Devil: The Journey of Romeo Dallaire",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 405589419,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 25978,
+          "providerId": 40
+        },
+        "providerTitle": "Shake Hands with the Devil - The Journey of Romeo Dallaire (matte needs cropping is ok per source) (HD not available)",
+        "streamable": 1,
+        "programLanguage": "English",
+        "originalProgramId": 25978,
+        "streamableLastUpdateDate": "2013-10-05T00:00:00Z",
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 126007,
+          "providerId": 51
+        },
+        "providerTitle": "Shake Hands With the Devil",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 126007,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 154977,
+          "providerId": 87
+        },
+        "providerTitle": "Shake Hands With the Devil: The Journey of Rom‚o Dallaire",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 154977,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      }],
+      "variantsUri": null,
+      "schedule": "",
+      "scheduleUri": null,
+      "event": null,
+      "eventUri": null,
+      "keywords": null,
+      "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=4818173&language=en&country=US",
+      "moods": null,
+      "moodsUri": null,
+      "related": null,
+      "relatedUri": null,
+      "review": null,
+      "reviewUri": null,
+      "synopsis": null,
+      "synopsisUri": null,
+      "themes": null,
+      "themesUri": null,
+      "tones": null,
+      "tonesUri": null
+    }
+  },
+  {
+    "type": "movie",
+    "relevance": [
+      {
+      "code": "Score",
+      "value": 0.017662562
+    }],
+    "id": 1213734,
+    "messages": null,
+    "video": {
+      "ids": {
+        "amgMovieId": null,
+        "cosmoId": "1213734",
+        "iguideId": 1213734
+      },
+      "seriesIds": null,
+      "masterTitle": "Manos, the Hands of Fate",
+      "secondaryTitle": "",
+      "episodeTitle": null,
+      "category": "Movie",
+      "color": "Color",
+      "lastAirDate": null,
+      "originalAirDate": null,
+      "programType": "Movie",
+      "releaseYear": 1966,
+      "duration": 74,
+      "subcategory": "mystery & suspense",
+      "syndicated": false,
+      "programLanguage": "English",
+      "partNumber": null,
+      "partTotal": null,
+      "parentalRatings": null,
+      "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1213734&language=en&country=US",
+      "cast": null,
+      "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1213734&language=en&country=US",
+      "crew": null,
+      "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1213734&language=en&country=US",
+      "awards": null,
+      "awardsUri": null,
+      "images": null,
+      "imagesUri": null,
+      "clip": null,
+      "clipUri": null,
+      "seasons": null,
+      "seasonsUri": null,
+      "variants": [
+        {
+        "videoHandle": {
+          "id": 1213734,
+          "providerId": 2
+        },
+        "providerTitle": "Manos, the Hands of Fate",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 1213734,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 22614802,
+          "providerId": 2
+        },
+        "providerTitle": "Manos, the Hands of Fate",
+        "streamable": 0,
+        "programLanguage": "Italian",
+        "originalProgramId": 22614802,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "V    31341",
+          "providerId": 3
+        },
+        "providerTitle": "Manos, the Hands of Fate",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": "V    31341",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 828371,
+          "providerId": 6
+        },
+        "providerTitle": "MANOS, THE HANDS OF FATE (1966)",
+        "streamable": null,
+        "programLanguage": null,
+        "originalProgramId": 828371,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 21902,
+          "providerId": 8
+        },
+        "providerTitle": "Manos the Hands of Fate",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 21902,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 18889,
+          "providerId": 9
+        },
+        "providerTitle": "Manos: The Hands of Fate",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 18889,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 163947,
+          "providerId": 87
+        },
+        "providerTitle": "Manos, the Hands of Fate",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 163947,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "XPPK0000000000132741",
+          "providerId": 95
+        },
+        "providerTitle": "Manos: The Hands of Fate",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": "XPPK0000000000132741",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      }],
+      "variantsUri": null,
+      "schedule": "",
+      "scheduleUri": null,
+      "event": null,
+      "eventUri": null,
+      "keywords": null,
+      "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1213734&language=en&country=US",
+      "moods": null,
+      "moodsUri": null,
+      "related": null,
+      "relatedUri": null,
+      "review": null,
+      "reviewUri": null,
+      "synopsis": null,
+      "synopsisUri": null,
+      "themes": null,
+      "themesUri": null,
+      "tones": null,
+      "tonesUri": null
+    }
+  },
+  {
+    "type": "movie",
+    "relevance": [
+      {
+      "code": "Score",
+      "value": 0.017559253
+    }],
+    "id": 254884,
+    "messages": null,
+    "video": {
+      "ids": {
+        "amgMovieId": null,
+        "cosmoId": "254884",
+        "iguideId": 254884
+      },
+      "seriesIds": null,
+      "masterTitle": "The Law in Her Hands",
+      "secondaryTitle": "",
+      "episodeTitle": null,
+      "category": "Movie",
+      "color": "Black and White",
+      "lastAirDate": null,
+      "originalAirDate": null,
+      "programType": "Movie",
+      "releaseYear": 1936,
+      "duration": 58,
+      "subcategory": "crime drama",
+      "syndicated": false,
+      "programLanguage": "English",
+      "partNumber": null,
+      "partTotal": null,
+      "parentalRatings": null,
+      "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=254884&language=en&country=US",
+      "cast": null,
+      "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=254884&language=en&country=US",
+      "crew": null,
+      "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=254884&language=en&country=US",
+      "awards": null,
+      "awardsUri": null,
+      "images": null,
+      "imagesUri": null,
+      "clip": null,
+      "clipUri": null,
+      "seasons": null,
+      "seasonsUri": null,
+      "variants": [
+        {
+        "videoHandle": {
+          "id": 254884,
+          "providerId": 2
+        },
+        "providerTitle": "The Law in Her Hands",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 254884,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "V    98889",
+          "providerId": 3
+        },
+        "providerTitle": "The Law in Her Hands",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": "V    98889",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 198113,
+          "providerId": 87
+        },
+        "providerTitle": "The Law in Her Hands",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 198113,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      }],
+      "variantsUri": null,
+      "schedule": "",
+      "scheduleUri": null,
+      "event": null,
+      "eventUri": null,
+      "keywords": null,
+      "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=254884&language=en&country=US",
+      "moods": null,
+      "moodsUri": null,
+      "related": null,
+      "relatedUri": null,
+      "review": null,
+      "reviewUri": null,
+      "synopsis": null,
+      "synopsisUri": null,
+      "themes": null,
+      "themesUri": null,
+      "tones": null,
+      "tonesUri": null
+    }
+  },
+  {
+    "type": "movie",
+    "relevance": [
+      {
+      "code": "Score",
+      "value": 0.017464057
+    }],
+    "id": 22163743,
+    "messages": null,
+    "video": {
+      "ids": {
+        "amgMovieId": null,
+        "cosmoId": "22163743",
+        "iguideId": 7277014
+      },
+      "seriesIds": null,
+      "masterTitle": "Hank and Asha",
+      "secondaryTitle": "",
+      "episodeTitle": null,
+      "category": "Movie",
+      "color": "Color",
+      "lastAirDate": null,
+      "originalAirDate": null,
+      "programType": "Movie",
+      "releaseYear": 2013,
+      "duration": 73,
+      "subcategory": "comedy",
+      "syndicated": false,
+      "programLanguage": "English",
+      "partNumber": null,
+      "partTotal": null,
+      "parentalRatings": null,
+      "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=22163743&language=en&country=US",
+      "cast": null,
+      "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=22163743&language=en&country=US",
+      "crew": null,
+      "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=22163743&language=en&country=US",
+      "awards": null,
+      "awardsUri": null,
+      "images": null,
+      "imagesUri": null,
+      "clip": null,
+      "clipUri": null,
+      "seasons": null,
+      "seasonsUri": null,
+      "variants": [
+        {
+        "videoHandle": {
+          "id": 22163743,
+          "providerId": 2
+        },
+        "providerTitle": "Hank and Asha",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 22163743,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "V   583158",
+          "providerId": 3
+        },
+        "providerTitle": "Hank and Asha",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": "V   583158",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 771359770,
+          "providerId": 9
+        },
+        "providerTitle": "Hank and Asha",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 771359770,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 303242,
+          "providerId": 87
+        },
+        "providerTitle": "Hank and Asha",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 303242,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      }],
+      "variantsUri": null,
+      "schedule": "",
+      "scheduleUri": null,
+      "event": null,
+      "eventUri": null,
+      "keywords": null,
+      "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=22163743&language=en&country=US",
+      "moods": null,
+      "moodsUri": null,
+      "related": null,
+      "relatedUri": null,
+      "review": null,
+      "reviewUri": null,
+      "synopsis": null,
+      "synopsisUri": null,
+      "themes": null,
+      "themesUri": null,
+      "tones": null,
+      "tonesUri": null
+    }
+  },
+  {
+    "type": "movie",
+    "relevance": [
+      {
+      "code": "Score",
+      "value": 0.017463557
+    }],
+    "id": 22632513,
+    "messages": null,
+    "video": {
+      "ids": {
+        "amgMovieId": null,
+        "cosmoId": "22632513",
+        "iguideId": 8315194
+      },
+      "seriesIds": null,
+      "masterTitle": "Hank: Five Years From the Brink",
+      "secondaryTitle": "",
+      "episodeTitle": null,
+      "category": "Movie",
+      "color": "Color",
+      "lastAirDate": null,
+      "originalAirDate": null,
+      "programType": "Movie",
+      "releaseYear": 2013,
+      "duration": 85,
+      "subcategory": "documentary",
+      "syndicated": false,
+      "programLanguage": "English",
+      "partNumber": null,
+      "partTotal": null,
+      "parentalRatings": null,
+      "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=22632513&language=en&country=US",
+      "cast": null,
+      "castUri": null,
+      "crew": null,
+      "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=22632513&language=en&country=US",
+      "awards": null,
+      "awardsUri": null,
+      "images": null,
+      "imagesUri": null,
+      "clip": null,
+      "clipUri": null,
+      "seasons": null,
+      "seasonsUri": null,
+      "variants": [
+        {
+        "videoHandle": {
+          "id": 22632513,
+          "providerId": 2
+        },
+        "providerTitle": "Hank: Five Years From the Brink",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 22632513,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "V   587357",
+          "providerId": 3
+        },
+        "providerTitle": "Hank: Five Years From the Brink",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": "V   587357",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 771363979,
+          "providerId": 9
+        },
+        "providerTitle": "Hank: Five Years From the Brink",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 771363979,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      }],
+      "variantsUri": null,
+      "schedule": "",
+      "scheduleUri": null,
+      "event": null,
+      "eventUri": null,
+      "keywords": null,
+      "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=22632513&language=en&country=US",
+      "moods": null,
+      "moodsUri": null,
+      "related": null,
+      "relatedUri": null,
+      "review": null,
+      "reviewUri": null,
+      "synopsis": null,
+      "synopsisUri": null,
+      "themes": null,
+      "themesUri": null,
+      "tones": null,
+      "tonesUri": null
+    }
+  },
+  {
+    "type": "movie",
+    "relevance": [
+      {
+      "code": "Score",
+      "value": 0.017463528
+    }],
+    "id": 22844518,
+    "messages": null,
+    "video": {
+      "ids": {
+        "amgMovieId": null,
+        "cosmoId": "22844518",
+        "iguideId": 8892866
+      },
+      "seriesIds": null,
+      "masterTitle": "The Gamers: Hands of Fate",
+      "secondaryTitle": "",
+      "episodeTitle": null,
+      "category": "Movie",
+      "color": "Color",
+      "lastAirDate": null,
+      "originalAirDate": null,
+      "programType": "Movie",
+      "releaseYear": 2013,
+      "duration": 90,
+      "subcategory": "action/adventure",
+      "syndicated": false,
+      "programLanguage": "English",
+      "partNumber": null,
+      "partTotal": null,
+      "parentalRatings": null,
+      "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=22844518&language=en&country=US",
+      "cast": null,
+      "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=22844518&language=en&country=US",
+      "crew": null,
+      "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=22844518&language=en&country=US",
+      "awards": null,
+      "awardsUri": null,
+      "images": null,
+      "imagesUri": null,
+      "clip": null,
+      "clipUri": null,
+      "seasons": null,
+      "seasonsUri": null,
+      "variants": [
+        {
+        "videoHandle": {
+          "id": 22844518,
+          "providerId": 2
+        },
+        "providerTitle": "The Gamers: Hands of Fate",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 22844518,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": "V   589746",
+          "providerId": 3
+        },
+        "providerTitle": "The Gamers: Hands of Fate",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": "V   589746",
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      },
+      {
+        "videoHandle": {
+          "id": 771365629,
+          "providerId": 9
+        },
+        "providerTitle": "The Gamers: Hands of Fate",
+        "streamable": 0,
+        "programLanguage": "English",
+        "originalProgramId": 771365629,
+        "streamableLastUpdateDate": null,
+        "priceoptions": null,
+        "contentUri": null,
+        "contentType": ""
+      }],
+      "variantsUri": null,
+      "schedule": "",
+      "scheduleUri": null,
+      "event": null,
+      "eventUri": null,
+      "keywords": null,
+      "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=22844518&language=en&country=US",
+      "moods": null,
+      "moodsUri": null,
+      "related": null,
+      "relatedUri": null,
+      "review": null,
+      "reviewUri": null,
+      "synopsis": null,
+      "synopsisUri": null,
+      "themes": null,
+      "themesUri": null,
+      "tones": null,
+      "tonesUri": null
+    }
+  }],
+  "totalResultCounts": 157
+}
+}

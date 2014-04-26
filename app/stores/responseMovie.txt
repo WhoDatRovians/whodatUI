@@ -1,0 +1,2616 @@
+{
+    "searchResponse": {
+        "meta:id": "tul1cpgpsrapp10:gwy:2or49s",
+        "controlSet": {
+            "status": "ok",
+            "code": 200,
+            "messages": null
+        },
+        "results": [{
+            "type": "movie",
+            "relevance": [{
+                "code": "Score",
+                "value": 1.742596
+            }],
+            "id": 18588567,
+            "messages": null,
+            "video": {
+                "ids": {
+                    "amgMovieId": null,
+                    "cosmoId": "18588567",
+                    "iguideId": 2586264
+                },
+                "seriesIds": null,
+                "masterTitle": "Young Adult",
+                "secondaryTitle": "",
+                "episodeTitle": null,
+                "category": "Movie",
+                "color": "Color",
+                "lastAirDate": null,
+                "originalAirDate": "2013-01-20T21:00:00Z",
+                "programType": "Movie",
+                "releaseYear": 2011,
+                "duration": 95,
+                "subcategory": "comedy-drama",
+                "syndicated": false,
+                "programLanguage": "English",
+                "partNumber": null,
+                "partTotal": null,
+                "parentalRatings": null,
+                "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18588567&language=en&country=US",
+                "cast": null,
+                "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18588567&language=en&country=US",
+                "crew": null,
+                "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18588567&language=en&country=US",
+                "awards": null,
+                "awardsUri": "http://api.rovicorp.com/data/v1/video/awards?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18588567&language=en&country=US",
+                "images": null,
+                "imagesUri": "http://api.rovicorp.com/data/v1/video/images?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18588567&language=en&country=US",
+                "clip": null,
+                "clipUri": null,
+                "seasons": null,
+                "seasonsUri": null,
+                "variants": [{
+                    "videoHandle": {
+                        "id": 434918,
+                        "providerId": 1
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": 434918,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 18588567,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": 18588567,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 19795565,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "Spanish",
+                    "originalProgramId": 19795565,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 19971633,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Kobieta na skraju dojrzalosci",
+                    "streamable": 1,
+                    "programLanguage": "Polish",
+                    "originalProgramId": 19971633,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 19995378,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "German",
+                    "originalProgramId": 19995378,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 20056862,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "French",
+                    "originalProgramId": 20056862,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 20094999,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "Italian",
+                    "originalProgramId": 20094999,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 20153764,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "Dutch",
+                    "originalProgramId": 20153764,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 20233343,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "Finnish",
+                    "originalProgramId": 20233343,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 20378910,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Jeune adulte",
+                    "streamable": 1,
+                    "programLanguage": "French",
+                    "originalProgramId": 20378910,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 20392709,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Jeune adulte",
+                    "streamable": 1,
+                    "programLanguage": "French",
+                    "originalProgramId": 20392709,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 20933155,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Adultos jóvenes",
+                    "streamable": 1,
+                    "programLanguage": "Spanish",
+                    "originalProgramId": 20933155,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 21445772,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Jovem adulta",
+                    "streamable": 1,
+                    "programLanguage": "Portuguese",
+                    "originalProgramId": 21445772,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 21488788,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "Danish",
+                    "originalProgramId": 21488788,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 21488806,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "Norwegian",
+                    "originalProgramId": 21488806,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 21488813,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "Swedish",
+                    "originalProgramId": 21488813,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 21741600,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Jóvenes adultos",
+                    "streamable": 1,
+                    "programLanguage": "Spanish",
+                    "originalProgramId": 21741600,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 21874409,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Jovens adultos",
+                    "streamable": 1,
+                    "programLanguage": "Portuguese",
+                    "originalProgramId": 21874409,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "V   527488",
+                        "providerId": 3
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": "V   527488",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 470173046,
+                        "providerId": 5
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": 470173046,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 566211,
+                        "providerId": 6
+                    },
+                    "providerTitle": "YOUNG ADULT (GERMAN)",
+                    "streamable": null,
+                    "programLanguage": null,
+                    "originalProgramId": 566211,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 850784,
+                        "providerId": 6
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": null,
+                    "programLanguage": null,
+                    "originalProgramId": 850784,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 904131,
+                        "providerId": 6
+                    },
+                    "providerTitle": "YOUNG ADULT (ITALIAN)",
+                    "streamable": null,
+                    "programLanguage": null,
+                    "originalProgramId": 904131,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 500552,
+                        "providerId": 8
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 500552,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 771211544,
+                        "providerId": 9
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 771211544,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 2560961,
+                        "providerId": 16
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 2560961,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "B00797MB0O",
+                        "providerId": 19
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": "B00797MB0O",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "B007IQX1G4",
+                        "providerId": 19
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": "B007IQX1G4",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "B007IQX9ZW",
+                        "providerId": 19
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": "B007IQX9ZW",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 249997,
+                        "providerId": 32
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": null,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 38293,
+                        "providerId": 41
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "Dutch",
+                    "originalProgramId": 38293,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 38294,
+                        "providerId": 41
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "French",
+                    "originalProgramId": 38294,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 313894,
+                        "providerId": 51
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 313894,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "epixhd.com||XPTL0000000000173767",
+                        "providerId": 52
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": "epixhd.com||XPTL0000000000173767",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "epixhd.com||XPTL0000000000173851",
+                        "providerId": 52
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": "epixhd.com||XPTL0000000000173851",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "indemand.com||INTL0312000005233365",
+                        "providerId": 52
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "Spanish",
+                    "originalProgramId": "indemand.com||INTL0312000005233365",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "indemand.com||INTL0312000005233572",
+                        "providerId": 52
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": "indemand.com||INTL0312000005233572",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 434918,
+                        "providerId": 82
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": 434918,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 108767,
+                        "providerId": 85
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": 108767,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 288391,
+                        "providerId": 87
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 288391,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "movie_2280",
+                        "providerId": 88
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "Spanish",
+                    "originalProgramId": "movie_2280",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "PMTP0001330119963182",
+                        "providerId": 95
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": "PMTP0001330119963182",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 470173046,
+                        "providerId": 103
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": 470173046,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 9004191,
+                        "providerId": 111
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": 9004191,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 9007302,
+                        "providerId": 111
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "Spanish",
+                    "originalProgramId": 9007302,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 9007346,
+                        "providerId": 111
+                    },
+                    "providerTitle": "Young Adult",
+                    "streamable": 1,
+                    "programLanguage": "Italian",
+                    "originalProgramId": 9007346,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }],
+                "variantsUri": null,
+                "schedule": "",
+                "scheduleUri": null,
+                "event": null,
+                "eventUri": null,
+                "keywords": null,
+                "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18588567&language=en&country=US",
+                "moods": null,
+                "moodsUri": null,
+                "related": null,
+                "relatedUri": null,
+                "review": null,
+                "reviewUri": null,
+                "synopsis": null,
+                "synopsisUri": null,
+                "themes": null,
+                "themesUri": null,
+                "tones": null,
+                "tonesUri": null
+            }
+        }, {
+            "type": "movie",
+            "relevance": [{
+                "code": "Score",
+                "value": 1.2325052
+            }],
+            "id": 1209177,
+            "messages": null,
+            "video": {
+                "ids": {
+                    "amgMovieId": null,
+                    "cosmoId": "1209177",
+                    "iguideId": 1209177
+                },
+                "seriesIds": null,
+                "masterTitle": "Consenting Adult",
+                "secondaryTitle": "",
+                "episodeTitle": null,
+                "category": "Movie",
+                "color": "Color",
+                "lastAirDate": null,
+                "originalAirDate": null,
+                "programType": "Movie",
+                "releaseYear": 1985,
+                "duration": 94,
+                "subcategory": "drama",
+                "syndicated": false,
+                "programLanguage": "English",
+                "partNumber": null,
+                "partTotal": null,
+                "parentalRatings": null,
+                "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1209177&language=en&country=US",
+                "cast": null,
+                "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1209177&language=en&country=US",
+                "crew": null,
+                "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1209177&language=en&country=US",
+                "awards": null,
+                "awardsUri": "http://api.rovicorp.com/data/v1/video/awards?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1209177&language=en&country=US",
+                "images": null,
+                "imagesUri": null,
+                "clip": null,
+                "clipUri": null,
+                "seasons": null,
+                "seasonsUri": null,
+                "variants": [{
+                    "videoHandle": {
+                        "id": 1209177,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Consenting Adult",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 1209177,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 2443639,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Verdad Dolorosa",
+                    "streamable": 0,
+                    "programLanguage": "Spanish",
+                    "originalProgramId": 2443639,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "V    10827",
+                        "providerId": 3
+                    },
+                    "providerTitle": "Consenting Adult",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": "V    10827",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 806029,
+                        "providerId": 6
+                    },
+                    "providerTitle": "Consenting Adult",
+                    "streamable": null,
+                    "programLanguage": null,
+                    "originalProgramId": 806029,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 770878942,
+                        "providerId": 9
+                    },
+                    "providerTitle": "Consenting Adults",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 770878942,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 184281,
+                        "providerId": 87
+                    },
+                    "providerTitle": "Consenting Adult",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 184281,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }],
+                "variantsUri": null,
+                "schedule": "",
+                "scheduleUri": null,
+                "event": null,
+                "eventUri": null,
+                "keywords": null,
+                "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=1209177&language=en&country=US",
+                "moods": null,
+                "moodsUri": null,
+                "related": null,
+                "relatedUri": null,
+                "review": null,
+                "reviewUri": null,
+                "synopsis": null,
+                "synopsisUri": null,
+                "themes": null,
+                "themesUri": null,
+                "tones": null,
+                "tonesUri": null
+            }
+        }, {
+            "type": "movie",
+            "relevance": [{
+                "code": "Score",
+                "value": 1.1629696
+            }],
+            "id": 21764538,
+            "messages": null,
+            "video": {
+                "ids": {
+                    "amgMovieId": null,
+                    "cosmoId": "21764538",
+                    "iguideId": 6727618
+                },
+                "seriesIds": null,
+                "masterTitle": "Adult World",
+                "secondaryTitle": "",
+                "episodeTitle": null,
+                "category": "Movie",
+                "color": "Color",
+                "lastAirDate": null,
+                "originalAirDate": null,
+                "programType": "Movie",
+                "releaseYear": 2013,
+                "duration": 0,
+                "subcategory": "comedy",
+                "syndicated": false,
+                "programLanguage": "English",
+                "partNumber": null,
+                "partTotal": null,
+                "parentalRatings": null,
+                "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=21764538&language=en&country=US",
+                "cast": null,
+                "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=21764538&language=en&country=US",
+                "crew": null,
+                "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=21764538&language=en&country=US",
+                "awards": null,
+                "awardsUri": null,
+                "images": null,
+                "imagesUri": null,
+                "clip": null,
+                "clipUri": null,
+                "seasons": null,
+                "seasonsUri": null,
+                "variants": [{
+                    "videoHandle": {
+                        "id": 21764538,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Adult World",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 21764538,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "V   579051",
+                        "providerId": 3
+                    },
+                    "providerTitle": "Adult World",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": "V   579051",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 771354231,
+                        "providerId": 9
+                    },
+                    "providerTitle": "Adult World",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 771354231,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 302018,
+                        "providerId": 87
+                    },
+                    "providerTitle": "Adult World",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 302018,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }],
+                "variantsUri": null,
+                "schedule": "",
+                "scheduleUri": null,
+                "event": null,
+                "eventUri": null,
+                "keywords": null,
+                "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=21764538&language=en&country=US",
+                "moods": null,
+                "moodsUri": null,
+                "related": null,
+                "relatedUri": null,
+                "review": null,
+                "reviewUri": null,
+                "synopsis": null,
+                "synopsisUri": null,
+                "themes": null,
+                "themesUri": null,
+                "tones": null,
+                "tonesUri": null
+            }
+        }, {
+            "type": "movie",
+            "relevance": [{
+                "code": "Score",
+                "value": 1.1440665
+            }],
+            "id": 22230636,
+            "messages": null,
+            "video": {
+                "ids": {
+                    "amgMovieId": null,
+                    "cosmoId": "22230636",
+                    "iguideId": 11537606
+                },
+                "seriesIds": null,
+                "masterTitle": "Bronies: The Extremely Unexpected Adult Fans of My",
+                "secondaryTitle": "",
+                "episodeTitle": null,
+                "category": "Movie",
+                "color": "Color",
+                "lastAirDate": null,
+                "originalAirDate": null,
+                "programType": "Movie",
+                "releaseYear": 2013,
+                "duration": 88,
+                "subcategory": "documentary",
+                "syndicated": false,
+                "programLanguage": "English",
+                "partNumber": null,
+                "partTotal": null,
+                "parentalRatings": null,
+                "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=22230636&language=en&country=US",
+                "cast": null,
+                "castUri": null,
+                "crew": null,
+                "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=22230636&language=en&country=US",
+                "awards": null,
+                "awardsUri": null,
+                "images": null,
+                "imagesUri": null,
+                "clip": null,
+                "clipUri": null,
+                "seasons": null,
+                "seasonsUri": null,
+                "variants": [{
+                    "videoHandle": {
+                        "id": 22230636,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Bronies: The Extremely Unexpected Adult Fans of My Little Pony",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": 22230636,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "V   583902",
+                        "providerId": 3
+                    },
+                    "providerTitle": "Bronies: The Extremely Unexpected Adult Fans of My Little Pony",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": "V   583902",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 771358553,
+                        "providerId": 9
+                    },
+                    "providerTitle": "Bronies: The Extremely Unexpected Adult Fans of My Little Pony",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 771358553,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 484398,
+                        "providerId": 32
+                    },
+                    "providerTitle": "Bronies: The Extremely Unexpected Adult Fans of My Little Pony",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": null,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 302942,
+                        "providerId": 87
+                    },
+                    "providerTitle": "Bronies: The Extremely Unexpected Adult Fans of My Little Pony",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 302942,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }],
+                "variantsUri": null,
+                "schedule": "",
+                "scheduleUri": null,
+                "event": null,
+                "eventUri": null,
+                "keywords": null,
+                "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=22230636&language=en&country=US",
+                "moods": null,
+                "moodsUri": null,
+                "related": null,
+                "relatedUri": null,
+                "review": null,
+                "reviewUri": null,
+                "synopsis": null,
+                "synopsisUri": null,
+                "themes": null,
+                "themesUri": null,
+                "tones": null,
+                "tonesUri": null
+            }
+        }, {
+            "type": "movie",
+            "relevance": [{
+                "code": "Score",
+                "value": 1.1042588
+            }],
+            "id": 18728804,
+            "messages": null,
+            "video": {
+                "ids": {
+                    "amgMovieId": null,
+                    "cosmoId": "18728804",
+                    "iguideId": 2760430
+                },
+                "seriesIds": null,
+                "masterTitle": "Adult Fun",
+                "secondaryTitle": "",
+                "episodeTitle": null,
+                "category": "Movie",
+                "color": "Color",
+                "lastAirDate": null,
+                "originalAirDate": null,
+                "programType": "Movie",
+                "releaseYear": 1972,
+                "duration": 102,
+                "subcategory": "mystery & suspense",
+                "syndicated": false,
+                "programLanguage": "English",
+                "partNumber": null,
+                "partTotal": null,
+                "parentalRatings": null,
+                "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18728804&language=en&country=US",
+                "cast": null,
+                "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18728804&language=en&country=US",
+                "crew": null,
+                "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18728804&language=en&country=US",
+                "awards": null,
+                "awardsUri": null,
+                "images": null,
+                "imagesUri": null,
+                "clip": null,
+                "clipUri": null,
+                "seasons": null,
+                "seasonsUri": null,
+                "variants": [{
+                    "videoHandle": {
+                        "id": 18728804,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Adult Fun",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 18728804,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "V   155503",
+                        "providerId": 3
+                    },
+                    "providerTitle": "Adult Fun",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": "V   155503",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }],
+                "variantsUri": null,
+                "schedule": "",
+                "scheduleUri": null,
+                "event": null,
+                "eventUri": null,
+                "keywords": null,
+                "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18728804&language=en&country=US",
+                "moods": null,
+                "moodsUri": null,
+                "related": null,
+                "relatedUri": null,
+                "review": null,
+                "reviewUri": null,
+                "synopsis": null,
+                "synopsisUri": null,
+                "themes": null,
+                "themesUri": null,
+                "tones": null,
+                "tonesUri": null
+            }
+        }, {
+            "type": "movie",
+            "relevance": [{
+                "code": "Score",
+                "value": 0.9191323
+            }],
+            "id": 9465592,
+            "messages": null,
+            "video": {
+                "ids": {
+                    "amgMovieId": null,
+                    "cosmoId": "9465592",
+                    "iguideId": 9465592
+                },
+                "seriesIds": null,
+                "masterTitle": "Love & Pain Adult Shorts",
+                "secondaryTitle": "",
+                "episodeTitle": null,
+                "category": "Movie",
+                "color": "Color",
+                "lastAirDate": null,
+                "originalAirDate": null,
+                "programType": "Movie",
+                "releaseYear": null,
+                "duration": 0,
+                "subcategory": null,
+                "syndicated": false,
+                "programLanguage": "English",
+                "partNumber": null,
+                "partTotal": null,
+                "parentalRatings": null,
+                "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=9465592&language=en&country=US",
+                "cast": null,
+                "castUri": null,
+                "crew": null,
+                "crewUri": null,
+                "awards": null,
+                "awardsUri": null,
+                "images": null,
+                "imagesUri": null,
+                "clip": null,
+                "clipUri": null,
+                "seasons": null,
+                "seasonsUri": null,
+                "variants": [{
+                    "videoHandle": {
+                        "id": 9465592,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Love & Pain Adult Shorts",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 9465592,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }],
+                "variantsUri": null,
+                "schedule": "",
+                "scheduleUri": null,
+                "event": null,
+                "eventUri": null,
+                "keywords": null,
+                "keywordsUri": null,
+                "moods": null,
+                "moodsUri": null,
+                "related": null,
+                "relatedUri": null,
+                "review": null,
+                "reviewUri": null,
+                "synopsis": null,
+                "synopsisUri": null,
+                "themes": null,
+                "themesUri": null,
+                "tones": null,
+                "tonesUri": null
+            }
+        }, {
+            "type": "movie",
+            "relevance": [{
+                "code": "Score",
+                "value": 0.9191202
+            }],
+            "id": 8820216,
+            "messages": null,
+            "video": {
+                "ids": {
+                    "amgMovieId": null,
+                    "cosmoId": "8820216",
+                    "iguideId": 8820216
+                },
+                "seriesIds": null,
+                "masterTitle": "Adult Decampment",
+                "secondaryTitle": "",
+                "episodeTitle": null,
+                "category": "Movie",
+                "color": "Color",
+                "lastAirDate": null,
+                "originalAirDate": null,
+                "programType": "Movie",
+                "releaseYear": null,
+                "duration": 0,
+                "subcategory": null,
+                "syndicated": false,
+                "programLanguage": "English",
+                "partNumber": null,
+                "partTotal": null,
+                "parentalRatings": null,
+                "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=8820216&language=en&country=US",
+                "cast": null,
+                "castUri": null,
+                "crew": null,
+                "crewUri": null,
+                "awards": null,
+                "awardsUri": null,
+                "images": null,
+                "imagesUri": null,
+                "clip": null,
+                "clipUri": null,
+                "seasons": null,
+                "seasonsUri": null,
+                "variants": [{
+                    "videoHandle": {
+                        "id": 8820216,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Adult Decampment",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 8820216,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }],
+                "variantsUri": null,
+                "schedule": "",
+                "scheduleUri": null,
+                "event": null,
+                "eventUri": null,
+                "keywords": null,
+                "keywordsUri": null,
+                "moods": null,
+                "moodsUri": null,
+                "related": null,
+                "relatedUri": null,
+                "review": null,
+                "reviewUri": null,
+                "synopsis": null,
+                "synopsisUri": null,
+                "themes": null,
+                "themesUri": null,
+                "tones": null,
+                "tonesUri": null
+            }
+        }, {
+            "type": "movie",
+            "relevance": [{
+                "code": "Score",
+                "value": 0.77035934
+            }],
+            "id": 18775722,
+            "messages": null,
+            "video": {
+                "ids": {
+                    "amgMovieId": null,
+                    "cosmoId": "18775722",
+                    "iguideId": 2819667
+                },
+                "seriesIds": null,
+                "masterTitle": "Almost Adult",
+                "secondaryTitle": "",
+                "episodeTitle": null,
+                "category": "Movie",
+                "color": "Color",
+                "lastAirDate": null,
+                "originalAirDate": null,
+                "programType": "Movie",
+                "releaseYear": 2006,
+                "duration": 75,
+                "subcategory": "drama",
+                "syndicated": false,
+                "programLanguage": "English",
+                "partNumber": null,
+                "partTotal": null,
+                "parentalRatings": null,
+                "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18775722&language=en&country=US",
+                "cast": null,
+                "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18775722&language=en&country=US",
+                "crew": null,
+                "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18775722&language=en&country=US",
+                "awards": null,
+                "awardsUri": null,
+                "images": null,
+                "imagesUri": null,
+                "clip": null,
+                "clipUri": null,
+                "seasons": null,
+                "seasonsUri": null,
+                "variants": [{
+                    "videoHandle": {
+                        "id": 18775722,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Almost Adult",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 18775722,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "V   381742",
+                        "providerId": 3
+                    },
+                    "providerTitle": "Almost Adult",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": "V   381742",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 487178,
+                        "providerId": 6
+                    },
+                    "providerTitle": "Almost Adult",
+                    "streamable": null,
+                    "programLanguage": null,
+                    "originalProgramId": 487178,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 417266831,
+                        "providerId": 9
+                    },
+                    "providerTitle": "Almost Adult",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 417266831,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 225245,
+                        "providerId": 87
+                    },
+                    "providerTitle": "Almost Adult",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 225245,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }],
+                "variantsUri": null,
+                "schedule": "",
+                "scheduleUri": null,
+                "event": null,
+                "eventUri": null,
+                "keywords": null,
+                "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18775722&language=en&country=US",
+                "moods": null,
+                "moodsUri": null,
+                "related": null,
+                "relatedUri": null,
+                "review": null,
+                "reviewUri": null,
+                "synopsis": null,
+                "synopsisUri": null,
+                "themes": null,
+                "themesUri": null,
+                "tones": null,
+                "tonesUri": null
+            }
+        }, {
+            "type": "movie",
+            "relevance": [{
+                "code": "Score",
+                "value": 0.019036062
+            }],
+            "id": 190545,
+            "messages": null,
+            "video": {
+                "ids": {
+                    "amgMovieId": null,
+                    "cosmoId": "190545",
+                    "iguideId": 190545
+                },
+                "seriesIds": null,
+                "masterTitle": "Consenting Adults",
+                "secondaryTitle": "",
+                "episodeTitle": null,
+                "category": "Movie",
+                "color": "Color",
+                "lastAirDate": null,
+                "originalAirDate": null,
+                "programType": "Movie",
+                "releaseYear": 1992,
+                "duration": 99,
+                "subcategory": "drama",
+                "syndicated": false,
+                "programLanguage": "English",
+                "partNumber": null,
+                "partTotal": null,
+                "parentalRatings": null,
+                "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=190545&language=en&country=US",
+                "cast": null,
+                "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=190545&language=en&country=US",
+                "crew": null,
+                "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=190545&language=en&country=US",
+                "awards": null,
+                "awardsUri": null,
+                "images": null,
+                "imagesUri": "http://api.rovicorp.com/data/v1/video/images?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=190545&language=en&country=US",
+                "clip": null,
+                "clipUri": null,
+                "seasons": null,
+                "seasonsUri": null,
+                "variants": [{
+                    "videoHandle": {
+                        "id": 15725378,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Forbuden frugt",
+                    "streamable": 1,
+                    "programLanguage": "Danish",
+                    "originalProgramId": 15725378,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 15725379,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Gewagtes Spiel",
+                    "streamable": 1,
+                    "programLanguage": "German",
+                    "originalProgramId": 15725379,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 15725380,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Giochi d'adulti",
+                    "streamable": 1,
+                    "programLanguage": "Italian",
+                    "originalProgramId": 15725380,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 15725381,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Lek med døden",
+                    "streamable": 1,
+                    "programLanguage": "Norwegian",
+                    "originalProgramId": 15725381,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 15725382,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Jeux D'Adultes",
+                    "streamable": 1,
+                    "programLanguage": "French",
+                    "originalProgramId": 15725382,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 15725383,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Dobles parejas",
+                    "streamable": 1,
+                    "programLanguage": "Spanish",
+                    "originalProgramId": 15725383,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 15725384,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Vieraissa",
+                    "streamable": 1,
+                    "programLanguage": "Finnish",
+                    "originalProgramId": 15725384,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 15725385,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Consenting Adults",
+                    "streamable": 1,
+                    "programLanguage": "Dutch",
+                    "originalProgramId": 15725385,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 15725386,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Lek till döds",
+                    "streamable": 1,
+                    "programLanguage": "Swedish",
+                    "originalProgramId": 15725386,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 1657102,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Juego de Adultos",
+                    "streamable": 1,
+                    "programLanguage": "Spanish",
+                    "originalProgramId": 1657102,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 190545,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Consenting Adults",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": 190545,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 19853545,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Tolerancyjni partnerzy",
+                    "streamable": 1,
+                    "programLanguage": "Polish",
+                    "originalProgramId": 19853545,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 21468624,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Só para adultos",
+                    "streamable": 1,
+                    "programLanguage": "Portuguese",
+                    "originalProgramId": 21468624,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 2207137,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Adultes consentants",
+                    "streamable": 1,
+                    "programLanguage": "French",
+                    "originalProgramId": 2207137,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 3206714,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Decisión Entre Adultos",
+                    "streamable": 1,
+                    "programLanguage": "Spanish",
+                    "originalProgramId": 3206714,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 4421844,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Consenting Adults",
+                    "streamable": 1,
+                    "programLanguage": "Spanish",
+                    "originalProgramId": 4421844,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 4544068,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Jogos de adultos",
+                    "streamable": 1,
+                    "programLanguage": "Portuguese",
+                    "originalProgramId": 4544068,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 6391676,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Juegos de Adultos",
+                    "streamable": 1,
+                    "programLanguage": "Spanish",
+                    "originalProgramId": 6391676,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "V    10828",
+                        "providerId": 3
+                    },
+                    "providerTitle": "Consenting Adults",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": "V    10828",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 460030144,
+                        "providerId": 5
+                    },
+                    "providerTitle": "Consenting Adults",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 460030144,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 35036,
+                        "providerId": 6
+                    },
+                    "providerTitle": "Consenting Adults",
+                    "streamable": null,
+                    "programLanguage": null,
+                    "originalProgramId": 35036,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 7003,
+                        "providerId": 8
+                    },
+                    "providerTitle": "Consenting Adults",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 7003,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 15443,
+                        "providerId": 9
+                    },
+                    "providerTitle": "Consenting Adults",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 15443,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "B006RXPU7W",
+                        "providerId": 19
+                    },
+                    "providerTitle": "Consenting Adults",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": "B006RXPU7W",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "B006RXQ3M8",
+                        "providerId": 19
+                    },
+                    "providerTitle": "Consenting Adults",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": "B006RXQ3M8",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 32439,
+                        "providerId": 32
+                    },
+                    "providerTitle": "Consenting Adults",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": null,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 98172,
+                        "providerId": 51
+                    },
+                    "providerTitle": "Consenting Adults",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 98172,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "TVN.com||TVNX0020321801221491",
+                        "providerId": 52
+                    },
+                    "providerTitle": "Consenting Adults",
+                    "streamable": 1,
+                    "programLanguage": "English",
+                    "originalProgramId": "TVN.com||TVNX0020321801221491",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 150420,
+                        "providerId": 87
+                    },
+                    "providerTitle": "Consenting Adults",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 150420,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }],
+                "variantsUri": null,
+                "schedule": "",
+                "scheduleUri": null,
+                "event": null,
+                "eventUri": null,
+                "keywords": null,
+                "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=190545&language=en&country=US",
+                "moods": null,
+                "moodsUri": null,
+                "related": null,
+                "relatedUri": null,
+                "review": null,
+                "reviewUri": null,
+                "synopsis": null,
+                "synopsisUri": null,
+                "themes": null,
+                "themesUri": null,
+                "tones": null,
+                "tonesUri": null
+            }
+        }, {
+            "type": "movie",
+            "relevance": [{
+                "code": "Score",
+                "value": 0.013669912
+            }],
+            "id": 4991034,
+            "messages": null,
+            "video": {
+                "ids": {
+                    "amgMovieId": null,
+                    "cosmoId": "4991034",
+                    "iguideId": 4991034
+                },
+                "seriesIds": null,
+                "masterTitle": "Producing Adults",
+                "secondaryTitle": "",
+                "episodeTitle": null,
+                "category": "Movie",
+                "color": "Color",
+                "lastAirDate": null,
+                "originalAirDate": null,
+                "programType": "Movie",
+                "releaseYear": 2004,
+                "duration": 102,
+                "subcategory": "comedy-drama",
+                "syndicated": false,
+                "programLanguage": "English",
+                "partNumber": null,
+                "partTotal": null,
+                "parentalRatings": null,
+                "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=4991034&language=en&country=US",
+                "cast": null,
+                "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=4991034&language=en&country=US",
+                "crew": null,
+                "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=4991034&language=en&country=US",
+                "awards": null,
+                "awardsUri": null,
+                "images": null,
+                "imagesUri": null,
+                "clip": null,
+                "clipUri": null,
+                "seasons": null,
+                "seasonsUri": null,
+                "variants": [{
+                    "videoHandle": {
+                        "id": 4991034,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Producing Adults",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 4991034,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "V   315425",
+                        "providerId": 3
+                    },
+                    "providerTitle": "Producing Adults",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": "V   315425",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 470033502,
+                        "providerId": 5
+                    },
+                    "providerTitle": "Producing Adults",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 470033502,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 757741,
+                        "providerId": 6
+                    },
+                    "providerTitle": "Producing Adults",
+                    "streamable": null,
+                    "programLanguage": null,
+                    "originalProgramId": 757741,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 255682,
+                        "providerId": 8
+                    },
+                    "providerTitle": "Producing Adults",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 255682,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 770715410,
+                        "providerId": 9
+                    },
+                    "providerTitle": "Lapsia ja aikuisia - Kuinka niita tehdaan? (Producing Adults)",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 770715410,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 148610,
+                        "providerId": 51
+                    },
+                    "providerTitle": "Producing Adults",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 148610,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 165833,
+                        "providerId": 87
+                    },
+                    "providerTitle": "Producing Adults",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 165833,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }],
+                "variantsUri": null,
+                "schedule": "",
+                "scheduleUri": null,
+                "event": null,
+                "eventUri": null,
+                "keywords": null,
+                "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=4991034&language=en&country=US",
+                "moods": null,
+                "moodsUri": null,
+                "related": null,
+                "relatedUri": null,
+                "review": null,
+                "reviewUri": null,
+                "synopsis": null,
+                "synopsisUri": null,
+                "themes": null,
+                "themesUri": null,
+                "tones": null,
+                "tonesUri": null
+            }
+        }, {
+            "type": "movie",
+            "relevance": [{
+                "code": "Score",
+                "value": 0.013090386
+            }],
+            "id": 18777275,
+            "messages": null,
+            "video": {
+                "ids": {
+                    "amgMovieId": null,
+                    "cosmoId": "18777275",
+                    "iguideId": 2821692
+                },
+                "seriesIds": null,
+                "masterTitle": "The Adults In the Room",
+                "secondaryTitle": "",
+                "episodeTitle": null,
+                "category": "Movie",
+                "color": "Color",
+                "lastAirDate": null,
+                "originalAirDate": null,
+                "programType": "Movie",
+                "releaseYear": 2009,
+                "duration": 80,
+                "subcategory": "comedy",
+                "syndicated": false,
+                "programLanguage": "English",
+                "partNumber": null,
+                "partTotal": null,
+                "parentalRatings": null,
+                "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18777275&language=en&country=US",
+                "cast": null,
+                "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18777275&language=en&country=US",
+                "crew": null,
+                "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18777275&language=en&country=US",
+                "awards": null,
+                "awardsUri": null,
+                "images": null,
+                "imagesUri": null,
+                "clip": null,
+                "clipUri": null,
+                "seasons": null,
+                "seasonsUri": null,
+                "variants": [{
+                    "videoHandle": {
+                        "id": 18777275,
+                        "providerId": 2
+                    },
+                    "providerTitle": "The Adults In the Room",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 18777275,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }],
+                "variantsUri": null,
+                "schedule": "",
+                "scheduleUri": null,
+                "event": null,
+                "eventUri": null,
+                "keywords": null,
+                "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18777275&language=en&country=US",
+                "moods": null,
+                "moodsUri": null,
+                "related": null,
+                "relatedUri": null,
+                "review": null,
+                "reviewUri": null,
+                "synopsis": null,
+                "synopsisUri": null,
+                "themes": null,
+                "themesUri": null,
+                "tones": null,
+                "tonesUri": null
+            }
+        }, {
+            "type": "movie",
+            "relevance": [{
+                "code": "Score",
+                "value": 0.01308975
+            }],
+            "id": 18700401,
+            "messages": null,
+            "video": {
+                "ids": {
+                    "amgMovieId": null,
+                    "cosmoId": "18700401",
+                    "iguideId": 2725253
+                },
+                "seriesIds": null,
+                "masterTitle": "Alone Together: Young Adults Living With HIV",
+                "secondaryTitle": "",
+                "episodeTitle": null,
+                "category": "Movie",
+                "color": "Color",
+                "lastAirDate": null,
+                "originalAirDate": null,
+                "programType": "Movie",
+                "releaseYear": 1995,
+                "duration": 17,
+                "subcategory": "biography",
+                "syndicated": false,
+                "programLanguage": "English",
+                "partNumber": null,
+                "partTotal": null,
+                "parentalRatings": null,
+                "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18700401&language=en&country=US",
+                "cast": null,
+                "castUri": null,
+                "crew": null,
+                "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18700401&language=en&country=US",
+                "awards": null,
+                "awardsUri": null,
+                "images": null,
+                "imagesUri": null,
+                "clip": null,
+                "clipUri": null,
+                "seasons": null,
+                "seasonsUri": null,
+                "variants": [{
+                    "videoHandle": {
+                        "id": 18700401,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Alone Together: Young Adults Living With HIV",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 18700401,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "V   214223",
+                        "providerId": 3
+                    },
+                    "providerTitle": "Alone Together: Young Adults Living With HIV",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": "V   214223",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }],
+                "variantsUri": null,
+                "schedule": "",
+                "scheduleUri": null,
+                "event": null,
+                "eventUri": null,
+                "keywords": null,
+                "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18700401&language=en&country=US",
+                "moods": null,
+                "moodsUri": null,
+                "related": null,
+                "relatedUri": null,
+                "review": null,
+                "reviewUri": null,
+                "synopsis": null,
+                "synopsisUri": null,
+                "themes": null,
+                "themesUri": null,
+                "tones": null,
+                "tonesUri": null
+            }
+        }, {
+            "type": "movie",
+            "relevance": [{
+                "code": "Score",
+                "value": 0.013089286
+            }],
+            "id": 18726321,
+            "messages": null,
+            "video": {
+                "ids": {
+                    "amgMovieId": null,
+                    "cosmoId": "18726321",
+                    "iguideId": 2757347
+                },
+                "seriesIds": null,
+                "masterTitle": "Vision Exercises for Adults",
+                "secondaryTitle": "",
+                "episodeTitle": null,
+                "category": "Movie",
+                "color": "Color",
+                "lastAirDate": null,
+                "originalAirDate": null,
+                "programType": "Movie",
+                "releaseYear": 1991,
+                "duration": 54,
+                "subcategory": "other",
+                "syndicated": false,
+                "programLanguage": "English",
+                "partNumber": null,
+                "partTotal": null,
+                "parentalRatings": null,
+                "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18726321&language=en&country=US",
+                "cast": null,
+                "castUri": null,
+                "crew": null,
+                "crewUri": null,
+                "awards": null,
+                "awardsUri": null,
+                "images": null,
+                "imagesUri": null,
+                "clip": null,
+                "clipUri": null,
+                "seasons": null,
+                "seasonsUri": null,
+                "variants": [{
+                    "videoHandle": {
+                        "id": 18726321,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Vision Exercises for Adults",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 18726321,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "V    76352",
+                        "providerId": 3
+                    },
+                    "providerTitle": "Vision Exercises for Adults",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": "V    76352",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 770898180,
+                        "providerId": 9
+                    },
+                    "providerTitle": "Vision Exercises for Adults",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 770898180,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }],
+                "variantsUri": null,
+                "schedule": "",
+                "scheduleUri": null,
+                "event": null,
+                "eventUri": null,
+                "keywords": null,
+                "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18726321&language=en&country=US",
+                "moods": null,
+                "moodsUri": null,
+                "related": null,
+                "relatedUri": null,
+                "review": null,
+                "reviewUri": null,
+                "synopsis": null,
+                "synopsisUri": null,
+                "themes": null,
+                "themesUri": null,
+                "tones": null,
+                "tonesUri": null
+            }
+        }, {
+            "type": "movie",
+            "relevance": [{
+                "code": "Score",
+                "value": 0.010201407
+            }],
+            "id": 7308246,
+            "messages": null,
+            "video": {
+                "ids": {
+                    "amgMovieId": null,
+                    "cosmoId": "7308246",
+                    "iguideId": 7308246
+                },
+                "seriesIds": null,
+                "masterTitle": "Among Adults",
+                "secondaryTitle": "",
+                "episodeTitle": null,
+                "category": "Movie",
+                "color": "Color",
+                "lastAirDate": null,
+                "originalAirDate": null,
+                "programType": "Movie",
+                "releaseYear": 2006,
+                "duration": 80,
+                "subcategory": "comedy-drama",
+                "syndicated": false,
+                "programLanguage": "English",
+                "partNumber": null,
+                "partTotal": null,
+                "parentalRatings": null,
+                "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=7308246&language=en&country=US",
+                "cast": null,
+                "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=7308246&language=en&country=US",
+                "crew": null,
+                "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=7308246&language=en&country=US",
+                "awards": null,
+                "awardsUri": null,
+                "images": null,
+                "imagesUri": null,
+                "clip": null,
+                "clipUri": null,
+                "seasons": null,
+                "seasonsUri": null,
+                "variants": [{
+                    "videoHandle": {
+                        "id": 7308246,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Among Adults",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 7308246,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "V   395255",
+                        "providerId": 3
+                    },
+                    "providerTitle": "Among Adults",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": "V   395255",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 241070,
+                        "providerId": 87
+                    },
+                    "providerTitle": "Among Adults",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 241070,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }],
+                "variantsUri": null,
+                "schedule": "",
+                "scheduleUri": null,
+                "event": null,
+                "eventUri": null,
+                "keywords": null,
+                "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=7308246&language=en&country=US",
+                "moods": null,
+                "moodsUri": null,
+                "related": null,
+                "relatedUri": null,
+                "review": null,
+                "reviewUri": null,
+                "synopsis": null,
+                "synopsisUri": null,
+                "themes": null,
+                "themesUri": null,
+                "tones": null,
+                "tonesUri": null
+            }
+        }, {
+            "type": "movie",
+            "relevance": [{
+                "code": "Score",
+                "value": 0.010201335
+            }],
+            "id": 18775426,
+            "messages": null,
+            "video": {
+                "ids": {
+                    "amgMovieId": null,
+                    "cosmoId": "18775426",
+                    "iguideId": 2819251
+                },
+                "seriesIds": null,
+                "masterTitle": "Not For Adults",
+                "secondaryTitle": "",
+                "episodeTitle": null,
+                "category": "Movie",
+                "color": "Color",
+                "lastAirDate": null,
+                "originalAirDate": null,
+                "programType": "Movie",
+                "releaseYear": 1987,
+                "duration": 72,
+                "subcategory": "drama",
+                "syndicated": false,
+                "programLanguage": "English",
+                "partNumber": null,
+                "partTotal": null,
+                "parentalRatings": null,
+                "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18775426&language=en&country=US",
+                "cast": null,
+                "castUri": null,
+                "crew": null,
+                "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18775426&language=en&country=US",
+                "awards": null,
+                "awardsUri": null,
+                "images": null,
+                "imagesUri": null,
+                "clip": null,
+                "clipUri": null,
+                "seasons": null,
+                "seasonsUri": null,
+                "variants": [{
+                    "videoHandle": {
+                        "id": 18775426,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Not For Adults",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 18775426,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": "V   520002",
+                        "providerId": 3
+                    },
+                    "providerTitle": "Not For Adults",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": "V   520002",
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }],
+                "variantsUri": null,
+                "schedule": "",
+                "scheduleUri": null,
+                "event": null,
+                "eventUri": null,
+                "keywords": null,
+                "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=18775426&language=en&country=US",
+                "moods": null,
+                "moodsUri": null,
+                "related": null,
+                "relatedUri": null,
+                "review": null,
+                "reviewUri": null,
+                "synopsis": null,
+                "synopsisUri": null,
+                "themes": null,
+                "themesUri": null,
+                "tones": null,
+                "tonesUri": null
+            }
+        }, {
+            "type": "movie",
+            "relevance": [{
+                "code": "Score",
+                "value": 0.010201146
+            }],
+            "id": 15145930,
+            "messages": null,
+            "video": {
+                "ids": {
+                    "amgMovieId": null,
+                    "cosmoId": "15145930",
+                    "iguideId": 15145930
+                },
+                "seriesIds": null,
+                "masterTitle": "Consenting Adults",
+                "secondaryTitle": "",
+                "episodeTitle": null,
+                "category": "Movie",
+                "color": "Color",
+                "lastAirDate": null,
+                "originalAirDate": null,
+                "programType": "Movie",
+                "releaseYear": 2007,
+                "duration": 0,
+                "subcategory": "drama",
+                "syndicated": false,
+                "programLanguage": "English",
+                "partNumber": null,
+                "partTotal": null,
+                "parentalRatings": null,
+                "parentalRatingsUri": "http://api.rovicorp.com/data/v1/video/parentalratings?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=15145930&language=en&country=US",
+                "cast": null,
+                "castUri": "http://api.rovicorp.com/data/v1/video/cast?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=15145930&language=en&country=US",
+                "crew": null,
+                "crewUri": "http://api.rovicorp.com/data/v1/video/crew?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=15145930&language=en&country=US",
+                "awards": null,
+                "awardsUri": null,
+                "images": null,
+                "imagesUri": null,
+                "clip": null,
+                "clipUri": null,
+                "seasons": null,
+                "seasonsUri": null,
+                "variants": [{
+                    "videoHandle": {
+                        "id": 15145930,
+                        "providerId": 2
+                    },
+                    "providerTitle": "Consenting Adults",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 15145930,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }, {
+                    "videoHandle": {
+                        "id": 770800544,
+                        "providerId": 9
+                    },
+                    "providerTitle": "Consenting Adults",
+                    "streamable": 0,
+                    "programLanguage": "English",
+                    "originalProgramId": 770800544,
+                    "streamableLastUpdateDate": null,
+                    "priceoptions": null,
+                    "contentUri": null,
+                    "contentType": ""
+                }],
+                "variantsUri": null,
+                "schedule": "",
+                "scheduleUri": null,
+                "event": null,
+                "eventUri": null,
+                "keywords": null,
+                "keywordsUri": "http://api.rovicorp.com/data/v1/video/keywords?format=json&apikey=7mwb58acwtu5tcvuf2pqgdsj&cosmoid=15145930&language=en&country=US",
+                "moods": null,
+                "moodsUri": null,
+                "related": null,
+                "relatedUri": null,
+                "review": null,
+                "reviewUri": null,
+                "synopsis": null,
+                "synopsisUri": null,
+                "themes": null,
+                "themesUri": null,
+                "tones": null,
+                "tonesUri": null
+            }
+        }],
+        "totalResultCounts": 16,
+        "facetCounts": [{
+            "name": "genre",
+            "facetCount": null
+        }]
+    }
+}
