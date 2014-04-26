@@ -26,9 +26,8 @@ body{
     width:100%;
     height:100%;
 }
-#grid
+.blurimage
 { 
-  background-image: url(../images/minion.jpg);
    -webkit-filter: blur(12px);
   -moz-filter: blur(12px);
   -o-filter: blur(12px);
@@ -39,7 +38,6 @@ body{
  .clearimage
  {
    margin: 0;
-  background-image: url(../images/minion.jpg);
   background-size:100% 100%;
   }
 .ui-grid-b
@@ -88,6 +86,11 @@ opacity:0;
 
 }
 
+#grid{
+
+
+
+}
 #answer{
     padding-bottom:10px;
     padding-top:10px; 
@@ -95,13 +98,6 @@ opacity:0;
     width:100%;
 }
 
-
-#answer{
-    padding-bottom:10px;
-    padding-top:10px; 
-    background:#a0cf89;
-    width:100%;
-}
 
 #outputCeleb input{
 	margin: 1px;
