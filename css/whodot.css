@@ -44,3 +44,9 @@ right:0px;
 opacity:0;
 }
 
+#answer{
+    padding-bottom:10px;
+    padding-top:10px; 
+    background:#a0cf89;
+    width:100%;
+}
