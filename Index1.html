@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link rel="stylesheet" href="resources/css/style.css">
+    <link href='http://fonts.googleapis.com/css?family=Londrina+Shadow' rel='stylesheet' type='text/css'>
+    
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    
+    <script src="lib/jquery-1.10.2.min.js"></script>
+    <script src="lib/md5_2.js"></script>
+    <script src="lib/jquery.autotab-1.1b.js"></script>
+    <script src="lib/jquery.countdown.min.js"></script>
+    <script src="app/controllers/gridclick.js"></script>
+</head>
+<body>
+    <div id="page">
+            
+            <div id="main" class="wrapper">
+                  
+                <div id="header"  >
+                    <div id="home" class="homeButton">Home</div>
+                    <div id="main_title" >WhoDat?</div>
+                    <div id="countdown"></div>
+                </div>
+                <div id="categories" class="selections">
+                    <div></div>
+                    <div id="start">START</div>
+                    <div></div>
+                </div>
+                
+                <div id="celebrities" class="selections">
+                    <div>Enter celebrity name</div>
+                    <div><input id="celebrityNameInput"/></div>
+                    <div><button id="celebrityNameButton">Get Info</button></div>
+                </div>
+
+                <div id="image_container">    
+                    <div id="closer">x</div>
+                    <div id="c_image"></div>
+                </div>
+
+                
+                <section id="selected_genre" class="" ></section>
+
+                <section id="genres" class="selections">
+
+                    <!--<div id="selection_label"></div>
+                        <div id="genre_Action">Action</div>-->
+
+                </section>
+
+                <div id="loader"> <img src="resources/images/ajax-loader.gif" alt="loader"></div>
+
+                <section id="answer" class="" >
+                    
+                </section>
+
+                
+
+                <section id="hints" class="" >
+                      
+                </section>
+
+                <section id="clue" class="" >
+                    <div id="clue_label"></div>
+                </section>
+
+                <section id="correct" class="" >
+                    <div id="correct_label" class="" ></div>
+                </section>
+            </div>
+            
+
+        </div>
+        <div id="footer" class="footer">
+            <!--<div id="tweetFeed">
+                    <div id="jstwitter"></div>
+                </div>
+                <div id="twitterImg" class="twitterImg">
+                    <img src="resources/images/twitterLogo.jpg" alt="twitterLogo"/>
+                </div>
+                <div id="twitterUser">@DesiDon</div>-->
+            <section id="user_messages"  >
+                    <div id="user_messages_label">
+                        Choose genre to begin
+                    </div>
+
+                </section>
+            <div id="buttons">
+                <div id="show_answer"></div>
+                <div id="nav_button"></div> 
+            </div>
+        </div>
+</body>
+</html>

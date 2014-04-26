@@ -1,0 +1,24 @@
+﻿html, body {
+    height:100%;
+    overflow:hidden;
+}
+#header{
+
+    font-family: 'Londrina Shadow', cursive;
+    font-size: 36pt;
+    padding-bottom:15px; 
+    padding-top:15px;
+    background:#1d5193;
+    color:#fff;
+    width:100%;
+}
+.wrapper {
+    overflow-y:scroll;
+    height: 80%;
+}
+.footer {
+    position:static;
+    bottom: 0;
+    height: 20%;
+    background-color:yellow;
+}
