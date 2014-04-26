@@ -1,0 +1,101 @@
+html{
+    width:100%;
+    height:100%;
+}
+
+body{
+    position: relative;
+    margin: 0px;
+    font-family:'Conv_MuseoSans';
+    text-align:center;
+    width:100%;
+    height:100%;
+}
+
+
+.ui-block-a,
+.ui-block-b,
+.ui-block-c
+{
+height: 200px;
+text-align: center;
+left:0px;
+right:0px;
+
+}
+.ui-content
+{
+margin:auto;
+height:100%;
+width:100%;
+}
+.ui-grid-b
+{
+background-color: lightgray;
+	 background-size:100% 100%;
+	  background-image: url(../images/minion.jpg);
+	  width:800px;
+      height:600px;
+}
+.ui-btnsolid
+{
+background-color: lightgray;
+height: 200px;
+font-weight: bold;
+text-align: center;
+left:0px;
+right:0px;
+opacity:1;
+}
+
+.ui-btntranspo
+{
+background-color: lightgray;
+height: 200px;
+font-weight: bold;
+text-align: center;
+left:0px;
+right:0px;
+opacity:0;
+}
+
+#answer{
+    padding-bottom:10px;
+    padding-top:10px; 
+    background:#a0cf89;
+    width:100%;
+}
+
+#outputCeleb input{
+	margin: 1px;
+	margin-top: 5px;
+	font-family:'Conv_MuseoSans';
+	font-size: 30pt;
+	text-align: center;
+	width:40px;
+	color:#333;
+	border-color: #fff;
+	border-style:none;
+	border: 0px;
+	border-radius: 5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+}
+
+/*#outputCeleb input{
+
+	font-size: 18pt;
+	text-align: center;
+	width:30px;
+	padding: 0px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	}*/
+
+
+input[type="text"]{
+   -moz-box-sizing:    border-box;
+   -webkit-box-sizing: border-box;
+    box-sizing:        border-box;
+}

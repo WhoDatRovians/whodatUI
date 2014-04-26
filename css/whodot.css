@@ -99,3 +99,45 @@ opacity:0;
     background:#a0cf89;
     width:100%;
 }
+
+
+#answer{
+    padding-bottom:10px;
+    padding-top:10px; 
+    background:#a0cf89;
+    width:100%;
+}
+
+#outputCeleb input{
+	margin: 1px;
+	margin-top: 5px;
+	font-family:'Conv_MuseoSans';
+	font-size: 30pt;
+	text-align: center;
+	width:40px;
+	color:#333;
+	border-color: #fff;
+	border-style:none;
+	border: 0px;
+	border-radius: 5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+}
+
+/*#outputCeleb input{
+
+	font-size: 18pt;
+	text-align: center;
+	width:30px;
+	padding: 0px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	}*/
+
+
+input[type="text"]{
+   -moz-box-sizing:    border-box;
+   -webkit-box-sizing: border-box;
+    box-sizing:        border-box;
+}
