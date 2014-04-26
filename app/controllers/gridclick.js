@@ -125,7 +125,11 @@ $(document).ready(function () {
                 startGame(data);
             }
         });
+        var celebJson = '{"Credits": {"credit_id": 6780301,"full_name": "Alfred Molina","part_name": "Roadkill","long_title": "Rango","zodiac_sign": "Gemini","file_url": "http://cps-static.rovicorp.com/2/Open/Getty/Alfred%20Molina/_derived_jpg_q90_600x800_m0/75443844.jpg"}}';
+        startGame(celebJson);
     }
+
+    
     function validateInput(input) {
         var arrayId = input.id.replace('mt_', '');
         var inputValue = input.value;
@@ -140,6 +144,8 @@ $(document).ready(function () {
         }
         checkAnswer();
     }
+
+    getMessages();
     function getMessages() {
         $.getJSON("app/stores/messages.txt", function (data) {
 
@@ -167,11 +173,12 @@ $(document).ready(function () {
         }
     }
     function showCorrect() {
-        var rand = messageList[Math.floor(Math.random() * messageList.length)];
+        //var rand = messageList[Math.floor(Math.random() * messageList.length)];
         $('#correct').show();
 
         $('#correct_label').show();
-        $('#correct_label').html(rand.name);
+        //$('#correct_label').html(rand.name);
+        showImage();
 
     }
     function displayAnswer() {
@@ -204,15 +211,7 @@ $(document).ready(function () {
         }
         scrambled += str;
         return scrambled;
-        //return s.replace(
-        // /\b([a-z])([a-z]+)([a-z])\b/gi,
-        // function (t, a, b, c) {
-        //     b = b.split(/\B/);
-        //     for (var i = b.length, j, k; i; j = parseInt(Math.random() * i),
-        //      k = b[--i], b[i] = b[j], b[j] = k) { }
-        //     return a + b.join('') + c;
-        // }
-        //);
+        
     }
     function isAlphaNumeric(x) {
 
@@ -224,13 +223,39 @@ $(document).ready(function () {
             return false;
     }
     
-   $('.ui-btnsolid').click(function (){
-           $(this).toggleClass('ui-btnsolid').toggleClass('ui-btntranspo');
-		   
-   });
-    
-    $('.ui-btntranspo').click(function (){
-             $(this).toggleClass('ui-btntranspo').toggleClass('ui-btnsolid');
-      });
+    $('.ui-btnsolid').click(function (){
+        setNeighborTiles(this);
+    });
+    $('.ui-btntranspo').click(function () {
+        setNeighborTiles(this);
+    });
+    function setNeighborTiles(cell) {
+        $('#cell1').removeClass('ui-btntranspo').addClass('ui-btnsolid');
+        $('#cell2').removeClass('ui-btntranspo').addClass('ui-btnsolid');
+        $('#cell3').removeClass('ui-btntranspo').addClass('ui-btnsolid');
+        $('#cell4').removeClass('ui-btntranspo').addClass('ui-btnsolid');
+        $('#cell5').removeClass('ui-btntranspo').addClass('ui-btnsolid');
+        $('#cell6').removeClass('ui-btntranspo').addClass('ui-btnsolid');
+        $('#cell7').removeClass('ui-btntranspo').addClass('ui-btnsolid');
+        $('#cell8').removeClass('ui-btntranspo').addClass('ui-btnsolid');
+        $('#cell9').removeClass('ui-btntranspo').addClass('ui-btnsolid');
+        
+        
+        $(cell).removeClass('ui-btnsolid').addClass('ui-btntranspo');
+    }
+
+    function showImage() {
+        $('#cell1').removeClass('ui-btnsolid').addClass('ui-btntranspo');
+        $('#cell2').removeClass('ui-btnsolid').addClass('ui-btntranspo');
+        $('#cell3').removeClass('ui-btnsolid').addClass('ui-btntranspo');
+        $('#cell4').removeClass('ui-btnsolid').addClass('ui-btntranspo');
+        $('#cell5').removeClass('ui-btnsolid').addClass('ui-btntranspo');
+        $('#cell6').removeClass('ui-btnsolid').addClass('ui-btntranspo');
+        $('#cell7').removeClass('ui-btnsolid').addClass('ui-btntranspo');
+        $('#cell8').removeClass('ui-btnsolid').addClass('ui-btntranspo');
+        $('#cell9').removeClass('ui-btnsolid').addClass('ui-btntranspo');
+        
+        $('#grid').removeClass('blurimage').addClass('clearimage');
+    }
     
 });

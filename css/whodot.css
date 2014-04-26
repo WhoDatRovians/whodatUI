@@ -28,11 +28,11 @@ body{
 }
 .blurimage
 { 
-   -webkit-filter: blur(12px);
-  -moz-filter: blur(12px);
-  -o-filter: blur(12px);
-  -ms-filter: blur(12px);
-  filter: blur(12px);
+   -webkit-filter: blur(2px);
+  -moz-filter: blur(2px);
+  -o-filter: blur(2px);
+  -ms-filter: blur(2px);
+  filter: blur(2px);
 
  }
  .clearimage
