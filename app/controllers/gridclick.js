@@ -38,31 +38,39 @@ $(document).ready(function () {
     var originalTitle;
     var hints = [];
     var clickedInputs = [];
-    var startingSeconds = 60;
-    
+    var networkFailure = false;
     getCeleberity();
     function getCeleberity() {
         var apiUrl = 'http://localhost:2826/api/values';
-        $.ajax({
-            url: apiUrl,
-            dataType: 'jsonp',
-            crossDomain: true,
-            timeout: 15000,
-            error: function (e) {
-                $.getJSON("app/stores/SampleCelebrities.txt", function (data) {
-                    startGame(data);
-                });
-            },
-            success: function (data) {
-                var celebJson = JSON && JSON.parse(data) || $.parseJSON(data);
-                startGame(celebJson);
-            },
-            statusCode: {
-                404: function () {
-                    alert("page not found");
+        if (networkFailure === false)
+            $.ajax({
+                url: apiUrl,
+                dataType: 'jsonp',
+                crossDomain: true,
+                timeout: 15000,
+                error: function(e) {
+                    networkFailure = true;
+                    $.getJSON("app/stores/SampleCelebrities.txt", function (data) {
+                        startGame(data);
+                    });
+                },
+                success: function(data) {
+                    var celebJson = JSON && JSON.parse(data) || $.parseJSON(data);
+                    startGame(celebJson);
+                },
+                statusCode: {
+                    404: function() {
+                        alert("page not found");
+                    }
                 }
-            }
-        });
+            });
+        
+        if(networkFailure === true) {
+            $.getJSON("app/stores/SampleCelebrities.txt", function (data) {
+                startGame(data);
+            });
+        }
+            
         //$.getJSON("app/stores/SampleCelebrities.txt", function (data) {
 
         //    startGame(data);
